@@ -1,0 +1,72 @@
+Update Notifier
+By Todd Long <longfocus@gmail.com>
+http://www.longfocus.com/firefox/updatenotifier/
+
+Releases
+--------
+0.1.5.5 released 7/05/2009
+- Fixed compatibility with Firefox 3.5.*
+- Fixed checking for disabled extensions
+- Locales added: mk-MK
+
+0.1.5.4 released 6/05/2008
+- Fixed compatibility with Firefox 3.0.* 
+- Fixed restart option to properly notify observers
+- Added support for Flock, Songbird, and Sunbird
+- Locales added: gl-ES, he-IL, kn-IN, sr-RS, vi-VN
+
+0.1.5.3 released 6/04/2007
+- Fixed compatibility with Firefox 2.0.0.* and Thunderbird 2.0.0.*
+- Fixed alerts to work on all OS Platforms (hopefully)
+- Added option to not ask for prompt when restarting
+- Added middle click to quickly check for any new updates
+- Locales added: ko-KR, pt-PT, sl-SI, sr-YU
+
+0.1.5.2 released 11/14/2006
+- Fixed issue of extension enable/disable causing restart
+- Fixed issue with icons appearing in toolbar and statusbar
+- Fixed throbber icon appearing when toolbar icon hidden
+
+0.1.5.1 released 11/04/2006
+- Fixed download error message with auto install enabled
+
+0.1.5 released 11/02/2006
+- Fixed issue with encoding of Hungarian translation
+- Fixed restart option appearing with failed installation
+- Added support for the Add-ons window in Firefox 2.0
+- Added list of installed items to the restart tooltip/popup
+- Added alert notifications for when updates become available
+- Added manager to detect uninstalls and to update the icons
+- Locales added: ar, id-ID, hr-HR, nb-NO, ro-RO, tr-TR
+
+0.1.4 released 7/25/2006
+- Fixed issue with missing Spanish localizations
+- Fixed restart dialog from appearing multiple instances
+- Fixed icons updating current status when opening new windows
+- Added the current version for updates in the tooltip
+- Locales added: ca-AD, cs-CZ, es-AR, es-ES, fa-IR, uk-UA, zh-TW
+
+0.1.3 released 6/01/2006
+- Fixed issue when installing extensions/themes with broken links
+- Fixed toolbar/options appearance for specific themes
+- Fixed restart icon from hiding when display option is unchecked
+- Fixed restart option so that it is always enabled in the menu
+- Added throbber icon for checking/downloading/installing updates
+- Added restart icon to appear for manual extension installs
+- Added support for Firefox Deer Park builds
+- Many more locales added
+
+0.1.2 released 3/09/2006
+- Added icon to notify when a restart is required
+- Added ability to restart either Firefox/Thunderbird
+- Added option to display the update icons in the statusbar
+- Added option to prompt for restart when all updates install
+- Added option to set the interval for update checking
+- Organized options window with tabs and default button
+
+0.1.1 released 2/21/2006
+- Added support for Thunderbird
+- Fixed tooltip fonts to be more reasonable size
+
+0.1.0 released 2/18/2006
+- Initial public release and bug free (well at least one of those)
