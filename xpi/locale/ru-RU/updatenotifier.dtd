@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Оповещает при наличии обновлений для установленных расширений/тем.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Отмена">
+<!ENTITY btn-defaults "Вернуть умолчания">
+<!ENTITY opts-title "Настройки Update Notifier">
+<!ENTITY opts-updates "Обновления">
+<!ENTITY opts-general "Общие">
+<!ENTITY opts-general-startup.caption "Запуск">
+<!ENTITY opts-general-install.caption "Установка">
+<!ENTITY opts-general-install.checkbox "Устанавливать обновления после их появления">
+<!ENTITY opts-toolbar "Панель инструментов">
+<!ENTITY opts-toolbar-display.caption "Отображение">
+<!ENTITY opts-toolbar-display.checkbox "Показывать иконку при отсутствии обновлений">
+<!ENTITY opts-toolbar-statusbar.caption "Строка состояния">
+<!ENTITY opts-toolbar-statusbar-display "Отображать иконку в строке состояния">
+<!ENTITY opts-toolbar-statusbar-last "Всегда последней">
+<!ENTITY opts-toolbar-statusbar-position "Выбрать место:">
+<!ENTITY opts-notifications "Уведомления">
+<!ENTITY opts-notifications-interval.caption "Интервал между проверками">
+<!ENTITY opts-notifications-interval-every "Проверять наличие обновлений каждые:">
+<!ENTITY opts-notifications-alerts "Предупреждения">
+<!ENTITY opts-notifications-alerts-display "Отображать уведомления о наличии новых обновлений.">
+<!ENTITY opts-help "Помощь">
+<!ENTITY opts-help-quick "Быстрое руководство">
+<!ENTITY opts-help-extension "Имеются обновления для расширений.">
+<!ENTITY opts-help-theme "Имеются обновления для тем.">
+<!ENTITY opts-help-none "Обновления отсутствуют.">
+<!ENTITY opts-help-restart "Для установки необходимо перезапустить приложение">
+<!ENTITY opts-help-about "Подробнее...">
+<!ENTITY opts-help-homepage "Домашняя страница расширения">

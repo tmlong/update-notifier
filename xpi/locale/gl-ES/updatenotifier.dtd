@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Notificador de actualizacións">
+<!ENTITY ext-description "Notifícalle cando dispón de actualizacións para as extensións e os temas.">
+<!ENTITY btn-ok "Aceptar">
+<!ENTITY btn-cancel "Cancelar">
+<!ENTITY btn-defaults "Preestablecido">
+<!ENTITY opts-title "Opcións do notificador de extensións">
+<!ENTITY opts-updates "Actualizacións">
+<!ENTITY opts-general "Xeral">
+<!ENTITY opts-general-startup.caption "Inicio">
+<!ENTITY opts-general-install.caption "Instalación">
+<!ENTITY opts-general-install.checkbox "Instalación das actualizacións cando estiveren dispoñibles">
+<!ENTITY opts-toolbar "Barra de ferramentas">
+<!ENTITY opts-toolbar-display.caption "Amosar">
+<!ENTITY opts-toolbar-display.checkbox "Amosar unha icona cando non houber actualizacións dipoñibles">
+<!ENTITY opts-toolbar-statusbar.caption "Barra de estado">
+<!ENTITY opts-toolbar-statusbar-display "Amosar unha icona de actualización na barra de estado">
+<!ENTITY opts-toolbar-statusbar-last "Sempre de último">
+<!ENTITY opts-toolbar-statusbar-position "Posición específica:">
+<!ENTITY opts-notifications "Notificacións">
+<!ENTITY opts-notifications-interval.caption "Intervalo de comprobación">
+<!ENTITY opts-notifications-interval-every "Comprobación de actualizacións cada:">
+<!ENTITY opts-notifications-alerts "Avisos">
+<!ENTITY opts-notifications-alerts-display "Amosar unha notificación de aviso para as novas actualizacións.">
+<!ENTITY opts-help "Axuda">
+<!ENTITY opts-help-quick "Axuda rápida">
+<!ENTITY opts-help-extension "Dispón de actualizacións de extensións.">
+<!ENTITY opts-help-theme "Dispón de actualizacións de temas.">
+<!ENTITY opts-help-none "Non dispón de ningunha actualización.">
+<!ENTITY opts-help-restart "Requírese o reinicio para a instalación.">
+<!ENTITY opts-help-about "Máis información">
+<!ENTITY opts-help-homepage "Páxina principal da extensión...">

@@ -1,0 +1,27 @@
+/*
+  Update Notifier
+  By Todd Long <longfocus@gmail.com>
+  http://www.longfocus.com/firefox/updatenotifier/
+*/
+
+#un-alert-box {
+	background-color: -moz-Dialog;
+	border: 2px solid #7B969C;
+	min-height: 50px;
+	min-width: 150px;
+	padding: 2px 0 4px;
+}
+
+#un-alert-image-box {
+	-moz-margin-start: 4px;
+	-moz-margin-end: 6px;
+}
+
+#un-alert-text-box {
+	-moz-padding-end: 10px;
+	padding-top: 5px;
+}
+
+#un-alert-title {
+	font-weight: bold;
+}

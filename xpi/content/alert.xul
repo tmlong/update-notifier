@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://updatenotifier/skin/alert.css" type="text/css"?>
+
+<!-- 
+  Update Notifier
+  By Todd Long <longfocus@gmail.com>
+  http://www.longfocus.com/firefox/updatenotifier/
+ -->
+
+<!DOCTYPE window SYSTEM "chrome://updatenotifier/locale/updatenotifier.dtd">
+
+<window xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+		id="un-alert"
+		align="start"
+		onload="UN_gAlertLoad();">
+		
+	<script type="application/x-javascript" src="chrome://updatenotifier/content/alert.js"/>
+	<script type="application/x-javascript" src="chrome://updatenotifier/content/utils.js"/>
+	
+	<hbox id="un-alert-box">
+		<hbox id="un-alert-image-box" align="center" valign="center">
+			<image id="un-alert-image"/>
+		</hbox>
+		
+		<vbox id="un-alert-text-box">
+			<label id="un-alert-title"/>
+			<vbox id="un-alert-items"/>
+		</vbox>
+	</hbox>
+	
+	<script type="application/x-javascript">
+	  UN_gPrefillAlertInfo();
+	</script>
+</window>

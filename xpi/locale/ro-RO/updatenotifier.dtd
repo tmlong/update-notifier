@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Anunturi update-uri">
+<!ENTITY ext-description "Te anunta cand sunt disponibile update-uri pentru extensiile si temele tale.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Anuleaza">
+<!ENTITY btn-defaults "Implicite">
+<!ENTITY opts-title "Anunturi update-uri Optiuni">
+<!ENTITY opts-updates "Update-uri">
+<!ENTITY opts-general "General">
+<!ENTITY opts-general-startup.caption "Startup">
+<!ENTITY opts-general-install.caption "Instaleaza">
+<!ENTITY opts-general-install.checkbox "Instaleaza update-uri cand ele devin disponibile.">
+<!ENTITY opts-toolbar "Toolbar">
+<!ENTITY opts-toolbar-display.caption "Display">
+<!ENTITY opts-toolbar-display.checkbox "Afiseaza iconita cand nici un update este disponibil.">
+<!ENTITY opts-toolbar-statusbar.caption "Bara de status">
+<!ENTITY opts-toolbar-statusbar-display "Afiseaza iconite update in bara de status.">
+<!ENTITY opts-toolbar-statusbar-last "Intotdeauna ultima">
+<!ENTITY opts-toolbar-statusbar-position "Pozitie specifica:">
+<!ENTITY opts-notifications "Notificari">
+<!ENTITY opts-notifications-interval.caption "Interval de verificare">
+<!ENTITY opts-notifications-interval-every "Cauta pentru update-uri la fiecare:">
+<!ENTITY opts-notifications-alerts "Alerte">
+<!ENTITY opts-notifications-alerts-display "Afiseaza alerta de notificare pentru noi update-uri.">
+<!ENTITY opts-help "Ajutor">
+<!ENTITY opts-help-quick "Ajutor rapid">
+<!ENTITY opts-help-extension "Update-uri pentru extensii sunt disponibile.">
+<!ENTITY opts-help-theme "Update-uri pentru teme sunt disponibile.">
+<!ENTITY opts-help-none "Nu sunt disponibile noi update-uri.">
+<!ENTITY opts-help-restart "Repornire necesara pentru instalare.">
+<!ENTITY opts-help-about "Mai multe informatii">
+<!ENTITY opts-help-homepage "Prima Pagina a extensiei...">

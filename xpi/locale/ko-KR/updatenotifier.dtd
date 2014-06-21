@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "당신의 확장기능과 테마에 갱신된 내용이 존재하면 알립니다.">
+<!ENTITY btn-ok "확인">
+<!ENTITY btn-cancel "취소">
+<!ENTITY btn-defaults "기본값">
+<!ENTITY opts-title "Update Notifier 환경설정">
+<!ENTITY opts-updates "업데이트">
+<!ENTITY opts-general "일반">
+<!ENTITY opts-general-startup.caption "시작">
+<!ENTITY opts-general-install.caption "설치">
+<!ENTITY opts-general-install.checkbox "존재시 업데이트 설치">
+<!ENTITY opts-toolbar "도구막대">
+<!ENTITY opts-toolbar-display.caption "표시">
+<!ENTITY opts-toolbar-display.checkbox "갱신된 것들이 없을때 아이콘 표시">
+<!ENTITY opts-toolbar-statusbar.caption "상태막대">
+<!ENTITY opts-toolbar-statusbar-display "상태막대 내 업데이트 막대 표시">
+<!ENTITY opts-toolbar-statusbar-last "항상 끝에">
+<!ENTITY opts-toolbar-statusbar-position "위치 지정:">
+<!ENTITY opts-notifications "통지">
+<!ENTITY opts-notifications-interval.caption "확인 간격">
+<!ENTITY opts-notifications-interval-every "매번 갱신내용 확인:">
+<!ENTITY opts-notifications-alerts "경고">
+<!ENTITY opts-notifications-alerts-display "새로운 업데이트를 위해 통지 표시">
+<!ENTITY opts-help "도움말">
+<!ENTITY opts-help-quick "빠른 도움말">
+<!ENTITY opts-help-extension "갱신된 확장기능이 존재합니다.">
+<!ENTITY opts-help-theme "갱신된 테마가 존재합니다.">
+<!ENTITY opts-help-none "갱신된 것이 없습니다.">
+<!ENTITY opts-help-restart "설치시 재시작 요구">
+<!ENTITY opts-help-about "추가 정보">
+<!ENTITY opts-help-homepage "확장기능 홈페이지">

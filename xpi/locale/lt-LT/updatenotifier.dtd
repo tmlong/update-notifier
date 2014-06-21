@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Atnaujinimų pranešėjas">
+<!ENTITY ext-description "Praneša, kai yra atnaujinimų jūsų priedams ir grafiniams apvalkalams.">
+<!ENTITY btn-ok "Gerai">
+<!ENTITY btn-cancel "Atšaukti">
+<!ENTITY btn-defaults "Numatytieji">
+<!ENTITY opts-title "Atnaujinimų pranešėjo nustatymai">
+<!ENTITY opts-updates "Atnaujinimai">
+<!ENTITY opts-general "Bendra">
+<!ENTITY opts-general-startup.caption "Paleistis">
+<!ENTITY opts-general-install.caption "Diegimas">
+<!ENTITY opts-general-install.checkbox "Diegti atnaujinimus, kai jie atsiranda.">
+<!ENTITY opts-toolbar "Įrankių juosta">
+<!ENTITY opts-toolbar-display.caption "Rodymas">
+<!ENTITY opts-toolbar-display.checkbox "Rodyti piktogramą, kai nėra atnaujinimų.">
+<!ENTITY opts-toolbar-statusbar.caption "Būsenos juosta">
+<!ENTITY opts-toolbar-statusbar-display "Rodo atnaujinimo piktogramas būsenos juostoje.">
+<!ENTITY opts-toolbar-statusbar-last "Visada paskutinis">
+<!ENTITY opts-toolbar-statusbar-position "Konkreti vieta:">
+<!ENTITY opts-notifications "Pranešimai">
+<!ENTITY opts-notifications-interval.caption "Tikrinimo intervalas">
+<!ENTITY opts-notifications-interval-every "Ieškoti atnaujinimų kas:">
+<!ENTITY opts-notifications-alerts "Įspėjimai">
+<!ENTITY opts-notifications-alerts-display "Rodyti įspėjamąjį pranešimą naujiems atnaujinimams.">
+<!ENTITY opts-help "Pagalba">
+<!ENTITY opts-help-quick "Simbolių reikšmės">
+<!ENTITY opts-help-extension "Yra priedų atnaujinimų.">
+<!ENTITY opts-help-theme "Yra grafinių apvalkalų atnaujinimų.">
+<!ENTITY opts-help-none "Nėra jokių atnaujinimų.">
+<!ENTITY opts-help-restart "Įdiegimui reikalingas paleidimas iš naujo.">
+<!ENTITY opts-help-about "Daugiau informacijos">
+<!ENTITY opts-help-homepage "Priedo tinklapis...">

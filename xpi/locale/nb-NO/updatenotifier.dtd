@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Oppdateringsvarsler">
+<!ENTITY ext-description "Varsler når nye oppdateringer er tilgjengelig til utvidelser og temaer.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Avbryt">
+<!ENTITY btn-defaults "Standard">
+<!ENTITY opts-title "Oppdateringsvarsler - innstilinger">
+<!ENTITY opts-updates "Oppdateringer">
+<!ENTITY opts-general "Generelt">
+<!ENTITY opts-general-startup.caption "Oppstart">
+<!ENTITY opts-general-install.caption "Installer">
+<!ENTITY opts-general-install.checkbox "Installer oppdateringer når de blir tilgjengelige.">
+<!ENTITY opts-toolbar "Verktøylinje">
+<!ENTITY opts-toolbar-display.caption "Vis">
+<!ENTITY opts-toolbar-display.checkbox "Vis ikon når det ikke finnes oppdateringer tilgjengelig.">
+<!ENTITY opts-toolbar-statusbar.caption "Statuslinje">
+<!ENTITY opts-toolbar-statusbar-display "Vis oppdateringsikon på statuslinjen">
+<!ENTITY opts-toolbar-statusbar-last "Alltid sist">
+<!ENTITY opts-toolbar-statusbar-position "Spessifisert plassering:">
+<!ENTITY opts-notifications "Varsler">
+<!ENTITY opts-notifications-interval.caption "Sjekk interval">
+<!ENTITY opts-notifications-interval-every "Sjekk for oppdateringer hver:">
+<!ENTITY opts-notifications-alerts "Advarsler">
+<!ENTITY opts-notifications-alerts-display "Vis advarsler for nye oppdateringer.">
+<!ENTITY opts-help "Hjelp">
+<!ENTITY opts-help-quick "Hurtighjelp">
+<!ENTITY opts-help-extension "Utvidelsesoppdateringer er tilgjengelig.">
+<!ENTITY opts-help-theme "Temaoppdateringer er tilgjengelig.">
+<!ENTITY opts-help-none "Det er ingen oppdateringer tilgjengelig.">
+<!ENTITY opts-help-restart "Omstart påkrevd for installasjon.">
+<!ENTITY opts-help-about "Mer informasjon">
+<!ENTITY opts-help-homepage "Utvidelsens hjemmeside...">

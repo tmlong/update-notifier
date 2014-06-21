@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Upozorní vás ak sú dostupné aktualizácie vašich rozšírení a tém.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Zrušiť">
+<!ENTITY btn-defaults "Pôvodné">
+<!ENTITY opts-title "Možnosti Update Notifier">
+<!ENTITY opts-updates "Aktualizácie">
+<!ENTITY opts-general "Všeobecné">
+<!ENTITY opts-general-startup.caption "Spúšťanie">
+<!ENTITY opts-general-install.caption "Inštalovať">
+<!ENTITY opts-general-install.checkbox "Inštalovať aktualizácie ak sú dostupné.">
+<!ENTITY opts-toolbar "Panel nástrojov">
+<!ENTITY opts-toolbar-display.caption "Zobraziť">
+<!ENTITY opts-toolbar-display.checkbox "Zobraziť ikonu ak nie je dostupná aktualizácia.">
+<!ENTITY opts-toolbar-statusbar.caption "Stavový riadok">
+<!ENTITY opts-toolbar-statusbar-display "Zobraziť ikonu aktualizácie v stavovom riadku.">
+<!ENTITY opts-toolbar-statusbar-last "Vždy posledná">
+<!ENTITY opts-toolbar-statusbar-position "Špecifická pozícia:">
+<!ENTITY opts-notifications "Upozornenia">
+<!ENTITY opts-notifications-interval.caption "Interval kontroly">
+<!ENTITY opts-notifications-interval-every "Kontrolovať aktualizáciu každých:">
+<!ENTITY opts-notifications-alerts "Výstrahy">
+<!ENTITY opts-notifications-alerts-display "Zobraziť upozornenie pre novú aktualizáciu.">
+<!ENTITY opts-help "Pomocník">
+<!ENTITY opts-help-quick "Rýchly pomocník">
+<!ENTITY opts-help-extension "Je dostupná aktualizácia rozšírenia.">
+<!ENTITY opts-help-theme "Je dostupná aktualizácia témy.">
+<!ENTITY opts-help-none "Nie sú dostupné aktualizácie.">
+<!ENTITY opts-help-restart "Je potrebné reštartovať aplikáciu.">
+<!ENTITY opts-help-about "Viac informácií">
+<!ENTITY opts-help-homepage "Domovská stránka rozšírenia...">

@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Актуален Известител">
+<!ENTITY ext-description "Съобщава ти, когато има нови версии за добавките и темите ти.">
+<!ENTITY btn-ok "Добре">
+<!ENTITY btn-cancel "Откажи">
+<!ENTITY btn-defaults "Стандартно">
+<!ENTITY opts-title "Актуален Известител - Настройки">
+<!ENTITY opts-updates "Нови Версии">
+<!ENTITY opts-general "Главно">
+<!ENTITY opts-general-startup.caption "При Включване на Firefox">
+<!ENTITY opts-general-install.caption "Инсталирай">
+<!ENTITY opts-general-install.checkbox "Инсталирай нови версии, когато има такива.">
+<!ENTITY opts-toolbar "Лента">
+<!ENTITY opts-toolbar-display.caption "Показвай">
+<!ENTITY opts-toolbar-display.checkbox "Показвай икона, когато няма нови версии на разположение.">
+<!ENTITY opts-toolbar-statusbar.caption "Статус лента">
+<!ENTITY opts-toolbar-statusbar-display "Показвай икони за нови версии в статус лентата.">
+<!ENTITY opts-toolbar-statusbar-last "Винаги последно">
+<!ENTITY opts-toolbar-statusbar-position "Специфична позиция:">
+<!ENTITY opts-notifications "Съобщения">
+<!ENTITY opts-notifications-interval.caption "Интервал при проверки">
+<!ENTITY opts-notifications-interval-every "Проверявай за нови версии на всеки:">
+<!ENTITY opts-notifications-alerts "Предупреждения">
+<!ENTITY opts-notifications-alerts-display "Показвай съобщения при нови версии.">
+<!ENTITY opts-help "Помощ">
+<!ENTITY opts-help-quick "Бърза помош">
+<!ENTITY opts-help-extension "Нови версии на добавките ти са на разположение.">
+<!ENTITY opts-help-theme "Нови версии на темите ти са на разположение.">
+<!ENTITY opts-help-none "Няма нови версии.">
+<!ENTITY opts-help-restart "Нужно е да рестартирате, за да завършите инсталацията.">
+<!ENTITY opts-help-about "Още информация">
+<!ENTITY opts-help-homepage "Страницата на добавката...">

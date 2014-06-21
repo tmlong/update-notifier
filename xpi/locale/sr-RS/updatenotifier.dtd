@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Обавештавач исправки">
+<!ENTITY ext-description "Обавештава вас кад постоје исправке за ваша проширења и теме.">
+<!ENTITY btn-ok "У реду">
+<!ENTITY btn-cancel "Поништи">
+<!ENTITY btn-defaults "Подразумевано">
+<!ENTITY opts-title "Опције обавештавача исправки">
+<!ENTITY opts-updates "Исправке">
+<!ENTITY opts-general "Опште">
+<!ENTITY opts-general-startup.caption "Покретање">
+<!ENTITY opts-general-install.caption "Инсталирање">
+<!ENTITY opts-general-install.checkbox "Инсталирај исправке кад постану доступне.">
+<!ENTITY opts-toolbar "Трака са алаткама">
+<!ENTITY opts-toolbar-display.caption "Приказ">
+<!ENTITY opts-toolbar-display.checkbox "Прикажи икону када нема доступних исправки.">
+<!ENTITY opts-toolbar-statusbar.caption "Статусна трака">
+<!ENTITY opts-toolbar-statusbar-display "Прикажи иконе исправки на статусној траци.">
+<!ENTITY opts-toolbar-statusbar-last "Увек последње">
+<!ENTITY opts-toolbar-statusbar-position "На одређеној позицији:">
+<!ENTITY opts-notifications "Обавештења">
+<!ENTITY opts-notifications-interval.caption "Учесталост">
+<!ENTITY opts-notifications-interval-every "Провери доступност исправки сваких:">
+<!ENTITY opts-notifications-alerts "Упозорења">
+<!ENTITY opts-notifications-alerts-display "Прикажи обавештење за нове исправке.">
+<!ENTITY opts-help "Помоћ">
+<!ENTITY opts-help-quick "Брза помоћ">
+<!ENTITY opts-help-extension "Доступне су исправке за проширења.">
+<!ENTITY opts-help-theme "Доступне су исправке за теме.">
+<!ENTITY opts-help-none "Не постоје доступне исправке.">
+<!ENTITY opts-help-restart "Потребано је поново покренути због инсталације.">
+<!ENTITY opts-help-about "Više informacija">
+<!ENTITY opts-help-homepage "Матична страна проширења...">

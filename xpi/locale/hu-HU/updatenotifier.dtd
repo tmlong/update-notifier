@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Frissítés figyelmeztető">
+<!ENTITY ext-description "Figyelmeztet amikor frissítések és témák elérhetővé válnak">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Mégsem">
+<!ENTITY btn-defaults "Alapértelmezések">
+<!ENTITY opts-title "Frissítés figyelmeztető beállítások">
+<!ENTITY opts-updates "Frissítések">
+<!ENTITY opts-general "Általános">
+<!ENTITY opts-general-startup.caption "Rendszerindítás">
+<!ENTITY opts-general-install.caption "Telepítés">
+<!ENTITY opts-general-install.checkbox "Telepítse a frissítéseket amikor elérhetővé válnak.">
+<!ENTITY opts-toolbar "Eszköztár">
+<!ENTITY opts-toolbar-display.caption "Megjelenítés">
+<!ENTITY opts-toolbar-display.checkbox "Jelenítse meg az ikont amikor nincs elérhető frissítés.">
+<!ENTITY opts-toolbar-statusbar.caption "Státuszsor">
+<!ENTITY opts-toolbar-statusbar-display "Jelenítse meg az ikont a státuszsorban.">
+<!ENTITY opts-toolbar-statusbar-last "Mindig marad">
+<!ENTITY opts-toolbar-statusbar-position "Pozició meghatározása:">
+<!ENTITY opts-notifications "Értesítések">
+<!ENTITY opts-notifications-interval.caption "Ellenőrzési időköz">
+<!ENTITY opts-notifications-interval-every "Frissítések ellenőrzése minden:">
+<!ENTITY opts-notifications-alerts "Riasztások">
+<!ENTITY opts-notifications-alerts-display "Jelenítsen meg figyelmeztetést az új frissítések megjelenésekor.">
+<!ENTITY opts-help "Súgó">
+<!ENTITY opts-help-quick "Gyors súgó">
+<!ENTITY opts-help-extension "Kiterjesztés frissítések elérhetők.">
+<!ENTITY opts-help-theme "Téma frissítések elérhetők.">
+<!ENTITY opts-help-none "Nics elérhető frissítés.">
+<!ENTITY opts-help-restart "Újraindítás szűkséges a telepítéshez.">
+<!ENTITY opts-help-about "További információ">
+<!ENTITY opts-help-homepage "Kiterjesztés honlapja...">

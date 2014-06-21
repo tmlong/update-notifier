@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Permette di notificare gli aggiornamenti disponibili per estensioni e temi installati">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Annulla">
+<!ENTITY btn-defaults "Predefinite">
+<!ENTITY opts-title "Opzioni di Update Notifier">
+<!ENTITY opts-updates "Aggiornamenti">
+<!ENTITY opts-general "Generali">
+<!ENTITY opts-general-startup.caption "All&apos;avvio">
+<!ENTITY opts-general-install.caption "Installazione">
+<!ENTITY opts-general-install.checkbox "Installa gli aggiornamenti quando sono disponibili">
+<!ENTITY opts-toolbar "Barra di stato/degli strumenti">
+<!ENTITY opts-toolbar-display.caption "Visualizzazione">
+<!ENTITY opts-toolbar-display.checkbox "Visualizza l&apos;icona quando non ci sono aggiornamenti disponibili">
+<!ENTITY opts-toolbar-statusbar.caption "Barra di stato">
+<!ENTITY opts-toolbar-statusbar-display "Visualizza l&apos;icona nella barra di stato">
+<!ENTITY opts-toolbar-statusbar-last "sempre come ultima">
+<!ENTITY opts-toolbar-statusbar-position "specifica:">
+<!ENTITY opts-notifications "Notifiche">
+<!ENTITY opts-notifications-interval.caption "Intervallo di tempo per il controllo">
+<!ENTITY opts-notifications-interval-every "Controlla ogni:">
+<!ENTITY opts-notifications-alerts "Controlli">
+<!ENTITY opts-notifications-alerts-display "Visualizza notifica quando ci sono aggiornamenti">
+<!ENTITY opts-help "?">
+<!ENTITY opts-help-quick "Legenda">
+<!ENTITY opts-help-extension "Sono disponibili aggiornamenti per le estensioni">
+<!ENTITY opts-help-theme "Sono disponibili aggiornamenti per i temi">
+<!ENTITY opts-help-none "Non ci sono aggiornamenti disponibili">
+<!ENTITY opts-help-restart "Riavviare per completare l&apos;installazione">
+<!ENTITY opts-help-about "Ulteriori informazioni">
+<!ENTITY opts-help-homepage "Visita il sito web">

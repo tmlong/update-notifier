@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Ве известува кога се достапни надградби за вашите екстензии и теми.">
+<!ENTITY btn-ok "Во ред">
+<!ENTITY btn-cancel "Откажи">
+<!ENTITY btn-defaults "Стандардни">
+<!ENTITY opts-title "Update Notifier Опции">
+<!ENTITY opts-updates "Надградби">
+<!ENTITY opts-general "Општо">
+<!ENTITY opts-general-startup.caption "Стартување">
+<!ENTITY opts-general-install.caption "Инсталирај">
+<!ENTITY opts-general-install.checkbox "Инсталирај ги надградбите кои тие се достапни.">
+<!ENTITY opts-toolbar "Алатник">
+<!ENTITY opts-toolbar-display.caption "Прикажи">
+<!ENTITY opts-toolbar-display.checkbox "Прикажи икона кога не се достапни надградби.">
+<!ENTITY opts-toolbar-statusbar.caption "Статусна лента">
+<!ENTITY opts-toolbar-statusbar-display "Прикажувај икони за надградби во статусната лента.">
+<!ENTITY opts-toolbar-statusbar-last "Секогаш последна">
+<!ENTITY opts-toolbar-statusbar-position "Особена позиција:">
+<!ENTITY opts-notifications "Известувања">
+<!ENTITY opts-notifications-interval.caption "Интервал на проверка">
+<!ENTITY opts-notifications-interval-every "Провери за надградби секои:">
+<!ENTITY opts-notifications-alerts "Предупредувања">
+<!ENTITY opts-notifications-alerts-display "Прикажи известување со предупредување за нови надградби.">
+<!ENTITY opts-help "Помош">
+<!ENTITY opts-help-quick "Брза Помош">
+<!ENTITY opts-help-extension "Надградби на екстензијата се достапни.">
+<!ENTITY opts-help-theme "Надградби на темата се достапни.">
+<!ENTITY opts-help-none "Нема достапни надградби.">
+<!ENTITY opts-help-restart "Рестартирање е потребно за инсталацијата.">
+<!ENTITY opts-help-about "Повеќе информации">
+<!ENTITY opts-help-homepage "Домашна страница на Екстензијата...">

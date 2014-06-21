@@ -1,0 +1,31 @@
+<!ENTITY ext-name "ನವೀನ ಉದ್ಘೋಷಿಸುವುದು">
+<!ENTITY ext-description "ನವೀನಗಳು ನಿನ್ನ ಪ್ರಸರಣಗಳಿಗೆ ಮತ್ತು ವಸ್ತುಗಳಿಗೆ ಕುದುರಿಸಿದಾಗ ಉದ್ಘೋಷಿಸುತ್ತೆ.">
+<!ENTITY btn-ok "ಸರಿ">
+<!ENTITY btn-cancel "ರದ್ದುಮಾಡು">
+<!ENTITY btn-defaults "ತಪ್ಪುಹೆಜ್ಜೆಗಳು">
+<!ENTITY opts-title "ನವೀನ ಉದ್ಘೋಷಿಸುವುದ ಇಚ್ಛೆಗಳು">
+<!ENTITY opts-updates "ನವೀನಗಳು">
+<!ENTITY opts-general "ದಳಪತಿ">
+<!ENTITY opts-general-startup.caption "ಆರಂಬಿಸು">
+<!ENTITY opts-general-install.caption "ಊರು">
+<!ENTITY opts-general-install.checkbox "ನವೀನಗಳು ಕುದುರಿಸಿದಾಗ ಊರಿಸು">
+<!ENTITY opts-toolbar "ಉಪಕರಣ ಪೆಟ್ಟಿಗೆ">
+<!ENTITY opts-toolbar-display.caption "ದುಂದು">
+<!ENTITY opts-toolbar-display.checkbox "ಪುತ್ತಳಿಯನ್ನು ನವೀನಗಳು ಇಲ್ಲದಿದ್ದರು ದುಂದು ಮಾಡು">
+<!ENTITY opts-toolbar-statusbar.caption "ಗುರುತ್ವ ಅಡ್ಡಿ">
+<!ENTITY opts-toolbar-statusbar-display "ಪುತ್ತಳಿಗಳನ್ನು ಗುರುತ್ವ ಅಡ್ಡಿಯಲ್ಲಿ ತೋರಿಸು.">
+<!ENTITY opts-toolbar-statusbar-last "ಯಾವಾಗಲು ಅಂತಿಮ">
+<!ENTITY opts-toolbar-statusbar-position "ಸ್ಪಷ್ಟದ ಉದ್ಯೋಗ:">
+<!ENTITY opts-notifications "ಉದ್ಘೋಷಗಳು">
+<!ENTITY opts-notifications-interval.caption "ತದೆಹಿದಿದ ಸಾವಕಾಶ">
+<!ENTITY opts-notifications-interval-every "ನವೇನಗಳಿಗೆ ತದೆಹಿದಿಸುತ್ತೆ ಪ್ರತೀ:">
+<!ENTITY opts-notifications-alerts "ಪ್ರಬುದ್ಧಗಳು">
+<!ENTITY opts-notifications-alerts-display "ಹೊಸ ನವೀನಗಳಿಗೆ ಪ್ರಬುದ್ಧ ತೋರಿಸು.">
+<!ENTITY opts-help "ಸಹಾಯ">
+<!ENTITY opts-help-quick "ತೀವ್ರ ಸಹಾಯ">
+<!ENTITY opts-help-extension "ಪ್ರಸರಣಗಳಿಗೆ ನವೀನಗಳಿವೆ.">
+<!ENTITY opts-help-theme "ವಸ್ತುಗಳಿಗೆ ನವೀನಗಳಿವೆ.">
+<!ENTITY opts-help-none "ನವೀನಗಳಿಲ್ಲ.">
+<!ENTITY opts-help-restart "ಊರುಸುವುದಕ್ಕೆ ಮತ್ತೆ ಆರಂಭಿಸಬೇಕು.">
+<!ENTITY opts-help-about "ಇನೊಂದು ಸ್ವೊಲ್ಪ ಬಾತ್ಮಿ">
+<!ENTITY opts-help-homepage "ಪ್ರಸರಣದ ನೇಯಿಗೆ ಪುಟ...">

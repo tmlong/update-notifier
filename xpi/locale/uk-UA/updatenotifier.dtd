@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Повідомляє Вам, коли доступні оновлення для Ваших тем та розширень.">
+<!ENTITY btn-ok "Гаразд">
+<!ENTITY btn-cancel "Скасувати">
+<!ENTITY btn-defaults "Стандартні">
+<!ENTITY opts-title "Налаштування Update Notifier">
+<!ENTITY opts-updates "Оновлення">
+<!ENTITY opts-general "Загальні">
+<!ENTITY opts-general-startup.caption "Завантаження">
+<!ENTITY opts-general-install.caption "Встановлення">
+<!ENTITY opts-general-install.checkbox "Встановлювати оновлення, коли вони доступні.">
+<!ENTITY opts-toolbar "Панель">
+<!ENTITY opts-toolbar-display.caption "Відображення">
+<!ENTITY opts-toolbar-display.checkbox "Відображати значок, коли немає доступних оновлень.">
+<!ENTITY opts-toolbar-statusbar.caption "Панель статусу">
+<!ENTITY opts-toolbar-statusbar-display "Відображати значки оновлень в панелі статусу.">
+<!ENTITY opts-toolbar-statusbar-last "Завжди останніми">
+<!ENTITY opts-toolbar-statusbar-position "Інше місце:">
+<!ENTITY opts-notifications "Повідомлення">
+<!ENTITY opts-notifications-interval.caption "Інтервал перевірки">
+<!ENTITY opts-notifications-interval-every "Перевіряти оновлення кожні:">
+<!ENTITY opts-notifications-alerts "Попередження">
+<!ENTITY opts-notifications-alerts-display "Відображати повідомлення для нових оновлень.">
+<!ENTITY opts-help "Допомога">
+<!ENTITY opts-help-quick "Швидка допомога">
+<!ENTITY opts-help-extension "Доступні оновлення розширень.">
+<!ENTITY opts-help-theme "Доступні оновлення тем.">
+<!ENTITY opts-help-none "Немає доступних оновлень.">
+<!ENTITY opts-help-restart "Для встановлення потрібно перезавантаження.">
+<!ENTITY opts-help-about "Більше інформації">
+<!ENTITY opts-help-homepage "Домашня сторінка розширення...">

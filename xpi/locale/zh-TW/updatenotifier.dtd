@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "當擴充套件或佈景主題有更新檔可用時，發出提示。">
+<!ENTITY btn-ok "確定">
+<!ENTITY btn-cancel "取消">
+<!ENTITY btn-defaults "還原至預設值">
+<!ENTITY opts-title "Update Notifier 選項">
+<!ENTITY opts-updates "更新">
+<!ENTITY opts-general "一般">
+<!ENTITY opts-general-startup.caption "啟動">
+<!ENTITY opts-general-install.caption "安裝">
+<!ENTITY opts-general-install.checkbox "當有更新檔可用時，立即安裝。">
+<!ENTITY opts-toolbar "工具列">
+<!ENTITY opts-toolbar-display.caption "顯示">
+<!ENTITY opts-toolbar-display.checkbox "無更新檔可用時，依然顯示圖示。">
+<!ENTITY opts-toolbar-statusbar.caption "狀態列">
+<!ENTITY opts-toolbar-statusbar-display "在狀態列顯示更新圖示。">
+<!ENTITY opts-toolbar-statusbar-last "總是放在最後">
+<!ENTITY opts-toolbar-statusbar-position "指定位置:">
+<!ENTITY opts-notifications "通知">
+<!ENTITY opts-notifications-interval.caption "檢查時間間隔">
+<!ENTITY opts-notifications-interval-every "每過多久檢查一次:">
+<!ENTITY opts-notifications-alerts "警示">
+<!ENTITY opts-notifications-alerts-display "有更新檔可用時，顯示警示通知。">
+<!ENTITY opts-help "說明">
+<!ENTITY opts-help-quick "簡易說明">
+<!ENTITY opts-help-extension "有新的擴充套件更新檔可用。">
+<!ENTITY opts-help-theme "有新的佈景主題更新檔可用。">
+<!ENTITY opts-help-none "沒有更新檔可用。">
+<!ENTITY opts-help-restart "安裝前需重新啟動。">
+<!ENTITY opts-help-about "更多資訊">
+<!ENTITY opts-help-homepage "擴充套件作者首頁...">

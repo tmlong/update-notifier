@@ -1,0 +1,32 @@
+#include "xpidl\nsISupports.idl"
+
+interface nsIPrefBranch;
+interface nsIStringBundle;
+
+[scriptable, uuid(c0e0d3e0-9e6b-11da-a746-0800200c9a66)]
+interface unIItem : nsISupports
+{
+  attribute string id;
+  attribute string name;
+  attribute string type;
+  attribute string oldVersion;
+  attribute string newVersion;
+  attribute string opType;
+  attribute boolean needsRestart;
+};
+
+[scriptable, uuid(0090c2b0-9e45-11da-a746-0800200c9a66)]
+interface unIManager : nsISupports
+{
+  readonly attribute nsIPrefBranch branch;
+  readonly attribute nsIStringBundle bundle;
+  readonly attribute boolean restart;
+  readonly attribute string status;
+  
+  void load();
+  void checkUpdates();
+  void installUpdates();
+  
+  void getItems(out unsigned long aCount, [retval, array, size_is(aCount)] out unIItem aItems);
+  void getUpdateItems(out unsigned long aCount, [retval, array, size_is(aCount)] out unIItem aItems);
+};

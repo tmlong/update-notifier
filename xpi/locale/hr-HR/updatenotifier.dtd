@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Obaviještava Vas kada su dostupne nadogradnje za Vaša proširenja i teme.">
+<!ENTITY btn-ok "Uredu">
+<!ENTITY btn-cancel "Odustani">
+<!ENTITY btn-defaults "Zadane">
+<!ENTITY opts-title "Update Notifier Opcije">
+<!ENTITY opts-updates "Nadogradnje">
+<!ENTITY opts-general "Općenito">
+<!ENTITY opts-general-startup.caption "Pokretanje">
+<!ENTITY opts-general-install.caption "Instaliranje">
+<!ENTITY opts-general-install.checkbox "Instaliraj nadogradnje kada postanu dostupne.">
+<!ENTITY opts-toolbar "Alatna traka">
+<!ENTITY opts-toolbar-display.caption "Prikaži">
+<!ENTITY opts-toolbar-display.checkbox "Prikaži ikonu kada nije dostupna niti jedna nadogradnja.">
+<!ENTITY opts-toolbar-statusbar.caption "Statusna traka">
+<!ENTITY opts-toolbar-statusbar-display "Prikaži ikone nadogradnji u statusnoj traci.">
+<!ENTITY opts-toolbar-statusbar-last "Uvijek posljednja">
+<!ENTITY opts-toolbar-statusbar-position "Određeni položaj:">
+<!ENTITY opts-notifications "Obavijesti">
+<!ENTITY opts-notifications-interval.caption "Razmaci provjere">
+<!ENTITY opts-notifications-interval-every "Provjeri za nadogradnje svakih:">
+<!ENTITY opts-notifications-alerts "Upozorenja">
+<!ENTITY opts-notifications-alerts-display "Prikaži obavijest upozorenja za nove nadogradnje.">
+<!ENTITY opts-help "Pomoć">
+<!ENTITY opts-help-quick "Brza pomoć">
+<!ENTITY opts-help-extension "Dostupne su nadogradnje proširenja.">
+<!ENTITY opts-help-theme "Dostupne su nadogradnje tema.">
+<!ENTITY opts-help-none "Nema dostupnih nadogradnji.">
+<!ENTITY opts-help-restart "Za instalaciju je potrebno ponovno pokrenuti.">
+<!ENTITY opts-help-about "Više informacija">
+<!ENTITY opts-help-homepage "Početna stranica proširenja...">

@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Ειδοποιεί όταν υπάρχουν ενημερωμένες εκδόσεις για τα εγκατεστημένα θέματα και επεκτάσεις.">
+<!ENTITY btn-ok "Εφαρμογή">
+<!ENTITY btn-cancel "Ακύρωση">
+<!ENTITY btn-defaults "Αρχικές ρυθμίσεις">
+<!ENTITY opts-title "Επιλογές Update Notifier">
+<!ENTITY opts-updates "Ενημερωμένες εκδόσεις">
+<!ENTITY opts-general "Γενικά">
+<!ENTITY opts-general-startup.caption "Εκκίνηση">
+<!ENTITY opts-general-install.caption "Εγκατάσταση">
+<!ENTITY opts-general-install.checkbox "Εγκατάσταση ενημερωμένων εκδόσεων.">
+<!ENTITY opts-toolbar "Εργαλειοθήκη">
+<!ENTITY opts-toolbar-display.caption "Εμφάνιση">
+<!ENTITY opts-toolbar-display.checkbox "Εμφάνιση εικονιδίου όταν δεν υπάρχουν διαθέσιμες ενημερωμένες εκδόσεις.">
+<!ENTITY opts-toolbar-statusbar.caption "Γραμμή κατάστασης">
+<!ENTITY opts-toolbar-statusbar-display "Εμφάνιση εικονιδίου ενημέρωσης στη γραμμή κατάστασης.">
+<!ENTITY opts-toolbar-statusbar-last "Πάντα στο τέλος">
+<!ENTITY opts-toolbar-statusbar-position "Συγκεκριμένη θέση :">
+<!ENTITY opts-notifications "Ειδοποιήσεις">
+<!ENTITY opts-notifications-interval.caption "Διάστημα ελέγχου">
+<!ENTITY opts-notifications-interval-every "Έλεγχος για ενημερωμένες εκδόσεις κάθε :">
+<!ENTITY opts-notifications-alerts "Προειδοποιήσεις">
+<!ENTITY opts-notifications-alerts-display "Εμφάνιση προειδοποίησης για ενημερωμένες εκδόσεις">
+<!ENTITY opts-help "Βοήθεια">
+<!ENTITY opts-help-quick "Γρήγορη βοήθεια">
+<!ENTITY opts-help-extension "Υπάρχουν διαθέσιμες ενημερωμένες εκδόσεις επεκτάσεων.">
+<!ENTITY opts-help-theme "Υπάρχουν διαθέσιμες ενημερωμένες εκδόσεις θεμάτων.">
+<!ENTITY opts-help-none "Δεν υπάρχουν διαθέσιμες ενημερωμένες εκδόσεις.">
+<!ENTITY opts-help-restart "Απαιτείται επανεκκίνηση για την ολοκλήρωση της εγκατάστασης.">
+<!ENTITY opts-help-about "Περισσότερες πληροφορίες">
+<!ENTITY opts-help-homepage "Αρχική σελίδα επέκτασης...">

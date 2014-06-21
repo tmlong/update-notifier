@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Thông báo Cập nhật">
+<!ENTITY ext-description "Thông báo khi có bản cập nhật mới cho phần mở rộng và nền.">
+<!ENTITY btn-ok "Tiếp">
+<!ENTITY btn-cancel "Huỷ">
+<!ENTITY btn-defaults "Mặc định">
+<!ENTITY opts-title "Tuỳ chọn thông báo">
+<!ENTITY opts-updates "Cập nhật">
+<!ENTITY opts-general "Chung">
+<!ENTITY opts-general-startup.caption "Khởi động">
+<!ENTITY opts-general-install.caption "Cài đặt">
+<!ENTITY opts-general-install.checkbox "Cài khi đã có bản cập nhật mới">
+<!ENTITY opts-toolbar "Công cụ">
+<!ENTITY opts-toolbar-display.caption "Hiển thị">
+<!ENTITY opts-toolbar-display.checkbox "Hiện icon khi không có bản cập nhật">
+<!ENTITY opts-toolbar-statusbar.caption "Tình trạng">
+<!ENTITY opts-toolbar-statusbar-display "Hiện icon trên thanh trạng thái">
+<!ENTITY opts-toolbar-statusbar-last "Luôn ở cuối">
+<!ENTITY opts-toolbar-statusbar-position "Chỉ định vị trí">
+<!ENTITY opts-notifications "Thông báo">
+<!ENTITY opts-notifications-interval.caption "Kiểm tra thường kỳ">
+<!ENTITY opts-notifications-interval-every "Kiểm tra cho mỗi">
+<!ENTITY opts-notifications-alerts "Thông báo">
+<!ENTITY opts-notifications-alerts-display "Hiện thông báo cho bản cập nhật mới.">
+<!ENTITY opts-help "Giúp đỡ">
+<!ENTITY opts-help-quick "Giúp đỡ nhanh">
+<!ENTITY opts-help-extension "Phần mở rộng đã có bản cập nhật mới.">
+<!ENTITY opts-help-theme "Nền đã có bản cập nhật mới.">
+<!ENTITY opts-help-none "Không có cập nhật mới.">
+<!ENTITY opts-help-restart "Phải khởi động lại">
+<!ENTITY opts-help-about "Thông tin thêm">
+<!ENTITY opts-help-homepage "Trang chủ">

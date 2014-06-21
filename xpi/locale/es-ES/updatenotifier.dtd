@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Le notifica cuando hay actualizaciones disponibles para sus extensiones y temas.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Cancelar">
+<!ENTITY btn-defaults "Valores por defecto">
+<!ENTITY opts-title "Opciones de Update Notifier">
+<!ENTITY opts-updates "Actualizaciones">
+<!ENTITY opts-general "General">
+<!ENTITY opts-general-startup.caption "Inicio">
+<!ENTITY opts-general-install.caption "Instalación">
+<!ENTITY opts-general-install.checkbox "Instalar actualizaciones cuando estén disponibles.">
+<!ENTITY opts-toolbar "Barra de herramientas">
+<!ENTITY opts-toolbar-display.caption "Visualización">
+<!ENTITY opts-toolbar-display.checkbox "Mostrar ícono cuando no hay actualizaciones disponibles.">
+<!ENTITY opts-toolbar-statusbar.caption "Barra de estado">
+<!ENTITY opts-toolbar-statusbar-display "Mostrar íconos de actualizaciones en la barra de estado.">
+<!ENTITY opts-toolbar-statusbar-last "Siempre de último">
+<!ENTITY opts-toolbar-statusbar-position "Posición específica:">
+<!ENTITY opts-notifications "Notificaciones">
+<!ENTITY opts-notifications-interval.caption "Intervalo de búsqueda">
+<!ENTITY opts-notifications-interval-every "Buscar actualizaciones cada:">
+<!ENTITY opts-notifications-alerts "Alertas">
+<!ENTITY opts-notifications-alerts-display "Mostrar alerta de notificación para nuevas actualizaciones.">
+<!ENTITY opts-help "Ayuda">
+<!ENTITY opts-help-quick "Ayuda rápida">
+<!ENTITY opts-help-extension "Hay actualizaciones disponibles para extensiones.">
+<!ENTITY opts-help-theme "Hay actualizaciones disponibles para temas.">
+<!ENTITY opts-help-none "No hay actualizaciones disponibles.">
+<!ENTITY opts-help-restart "Es requerido reiniciar para la instalación.">
+<!ENTITY opts-help-about "Más información">
+<!ENTITY opts-help-homepage "Página de la extensión...">

@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Obvešča vas, ko so na voljo posodobitve za vaše dodatke in teme.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Prekliči">
+<!ENTITY btn-defaults "Privzeto">
+<!ENTITY opts-title "Možnosti">
+<!ENTITY opts-updates "Posodobitve">
+<!ENTITY opts-general "Splošno">
+<!ENTITY opts-general-startup.caption "Ob zagonu">
+<!ENTITY opts-general-install.caption "Namestitev">
+<!ENTITY opts-general-install.checkbox "Namesti posodobitve, ko so na voljo.">
+<!ENTITY opts-toolbar "Opravilna vrstica">
+<!ENTITY opts-toolbar-display.caption "Prikaz">
+<!ENTITY opts-toolbar-display.checkbox "Prikaži ikono tudi, ko posodobitve niso na voljo.">
+<!ENTITY opts-toolbar-statusbar.caption "Statusna vrstica">
+<!ENTITY opts-toolbar-statusbar-display "Prikaži ikone v statustni vrstici.">
+<!ENTITY opts-toolbar-statusbar-last "Vedno zadnje">
+<!ENTITY opts-toolbar-statusbar-position "Določeno mesto:">
+<!ENTITY opts-notifications "Obvestila">
+<!ENTITY opts-notifications-interval.caption "Frekvenca iskanja">
+<!ENTITY opts-notifications-interval-every "Interval iskanja posodobitev">
+<!ENTITY opts-notifications-alerts "Opozorila">
+<!ENTITY opts-notifications-alerts-display "Prikaži opozorilo, ko so na voljo posodobitve.">
+<!ENTITY opts-help "Pomoč">
+<!ENTITY opts-help-quick "Hitra pomoč">
+<!ENTITY opts-help-extension "Na voljo so posodobitve dodatkov.">
+<!ENTITY opts-help-theme "Na voljo so posodobitve tem.">
+<!ENTITY opts-help-none "Posodobitve niso na voljo.">
+<!ENTITY opts-help-restart "Za namestitev je potreben ponovni zagon.">
+<!ENTITY opts-help-about "Več informacij...">
+<!ENTITY opts-help-homepage "Domača stran dodatka...">

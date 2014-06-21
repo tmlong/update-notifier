@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Ilmoittaa laajennuksien ja teemojen päivityksistä, kun ne tulevat saataville.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Peruuta">
+<!ENTITY btn-defaults "Alkuasetukset">
+<!ENTITY opts-title "Update Notifier - Asetukset">
+<!ENTITY opts-updates "Päivitykset">
+<!ENTITY opts-general "Yleiset">
+<!ENTITY opts-general-startup.caption "Käynnistyminen">
+<!ENTITY opts-general-install.caption "Asentaminen">
+<!ENTITY opts-general-install.checkbox "Asenna päivitykset, kun ne tulevat saataville.">
+<!ENTITY opts-toolbar "Työkalupalkki">
+<!ENTITY opts-toolbar-display.caption "Näyttäminen">
+<!ENTITY opts-toolbar-display.checkbox "Näytä kuvake, vaikka päivityksiä ei olisi saatavilla.">
+<!ENTITY opts-toolbar-statusbar.caption "Tilarivi">
+<!ENTITY opts-toolbar-statusbar-display "Näytä päivityskuvakkeet tilarivillä.">
+<!ENTITY opts-toolbar-statusbar-last "Aina viimeisenä">
+<!ENTITY opts-toolbar-statusbar-position "Tarkka sijainti:">
+<!ENTITY opts-notifications "Ilmoitukset">
+<!ENTITY opts-notifications-interval.caption "Tarkastuksen aikaväli">
+<!ENTITY opts-notifications-interval-every "Päivitystarkastuksen aikaväli:">
+<!ENTITY opts-notifications-alerts "Ilmoittaminen">
+<!ENTITY opts-notifications-alerts-display "Näytä ilmotusikkuna uusista päivityksistä.">
+<!ENTITY opts-help "Ohje">
+<!ENTITY opts-help-quick "Pikaohje">
+<!ENTITY opts-help-extension "Päivityksiä laajennuksille on saatavilla.">
+<!ENTITY opts-help-theme "Päivityksiä teemoille on saatavilla.">
+<!ENTITY opts-help-none "Päivityksiä ei ole saatavilla.">
+<!ENTITY opts-help-restart "Asennuksen viimeistely vaatii uudelleenkäynnistämistä.">
+<!ENTITY opts-help-about "Lisätietoa">
+<!ENTITY opts-help-homepage "Laajennuksen kotisivu...">

@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Powiadamia o aktualizacjach rozszerzeń i motywów">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Anuluj">
+<!ENTITY btn-defaults "Domyślne">
+<!ENTITY opts-title "Update Notifier - opcje">
+<!ENTITY opts-updates "Aktualizacje">
+<!ENTITY opts-general "Ogólne">
+<!ENTITY opts-general-startup.caption "Uruchamianie">
+<!ENTITY opts-general-install.caption "Instalacja">
+<!ENTITY opts-general-install.checkbox "Automatycznie pobierz i zainstaluj aktualizacje, gdy są dostępne">
+<!ENTITY opts-toolbar "Ikona aktualizacji">
+<!ENTITY opts-toolbar-display.caption "Wyświetlanie">
+<!ENTITY opts-toolbar-display.checkbox "Wyświetl ikonę również, gdy nie ma dostępnych aktualizacji">
+<!ENTITY opts-toolbar-statusbar.caption "Pasek stanu">
+<!ENTITY opts-toolbar-statusbar-display "Wyświetl ikonę aktualizacji na pasku stanu">
+<!ENTITY opts-toolbar-statusbar-last "Na końcu">
+<!ENTITY opts-toolbar-statusbar-position "Określ położenie:">
+<!ENTITY opts-notifications "Powiadomienia">
+<!ENTITY opts-notifications-interval.caption "Częstotliwość sprawdzania">
+<!ENTITY opts-notifications-interval-every "Sprawdź czy są dostępne aktualizacje co:">
+<!ENTITY opts-notifications-alerts "Sprawdzanie">
+<!ENTITY opts-notifications-alerts-display "Wyświetl powiadomienia o nowych aktualizacjach">
+<!ENTITY opts-help "Pomoc">
+<!ENTITY opts-help-quick "Opis ikon">
+<!ENTITY opts-help-extension "Jest dostępna aktualizacja rozszerzenia">
+<!ENTITY opts-help-theme "Jest dostępna aktualizacja motywu">
+<!ENTITY opts-help-none "Brak dostępnych aktualizacji">
+<!ENTITY opts-help-restart "Konieczne ponownie uruchomienie przeglądarki">
+<!ENTITY opts-help-about "Więcej informacji">
+<!ENTITY opts-help-homepage "Strona domowa rozszerzenia">

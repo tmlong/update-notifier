@@ -1,0 +1,31 @@
+<!ENTITY ext-name "منبه التحديث">
+<!ENTITY ext-description "ينبهك هذا الإمتداد لوجود تحديثات لإمتداداتك وسماتك التى تعمل مع فاير فوكس">
+<!ENTITY btn-ok "موافق">
+<!ENTITY btn-cancel "إلغاء الأمر">
+<!ENTITY btn-defaults "إفتراضي">
+<!ENTITY opts-title "خصائص منبه التحديث">
+<!ENTITY opts-updates "تحديثات">
+<!ENTITY opts-general "عام">
+<!ENTITY opts-general-startup.caption "البداية">
+<!ENTITY opts-general-install.caption "تحميل">
+<!ENTITY opts-general-install.checkbox "حمل التحديث حين توافرها">
+<!ENTITY opts-toolbar "شريط الأدوات">
+<!ENTITY opts-toolbar-display.caption "العرض">
+<!ENTITY opts-toolbar-display.checkbox "عرض الأيقونه حين عدم وجود تحديثات">
+<!ENTITY opts-toolbar-statusbar.caption "شريط الحالة">
+<!ENTITY opts-toolbar-statusbar-display "إعرض أيقونة التحديث فى شريط الحالة">
+<!ENTITY opts-toolbar-statusbar-last "دائما الأخير">
+<!ENTITY opts-toolbar-statusbar-position "مكان محدد :">
+<!ENTITY opts-notifications "تنبيهات">
+<!ENTITY opts-notifications-interval.caption "الفحص الدوري">
+<!ENTITY opts-notifications-interval-every "إبحث عن التحديثات كل :">
+<!ENTITY opts-notifications-alerts "إنذارات">
+<!ENTITY opts-notifications-alerts-display "إعرض تبيهات للتحديثات الجديدة">
+<!ENTITY opts-help "مساعدة">
+<!ENTITY opts-help-quick "مساعدة سريعة">
+<!ENTITY opts-help-extension "هناك تحديثات متاحة للإمتدادات">
+<!ENTITY opts-help-theme "هناك تحديثات متاحة للسمات">
+<!ENTITY opts-help-none "لا توجد تحديثات متاحة">
+<!ENTITY opts-help-restart "يجب إعادة التشغيل لتفعيل التحديثات">
+<!ENTITY opts-help-about "معلومات أكثر">
+<!ENTITY opts-help-homepage "الصفحة الرئيسية للإمتداد">

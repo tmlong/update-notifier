@@ -1,0 +1,157 @@
+/*
+  Update Notifier
+  By Todd Long <longfocus@gmail.com>
+  http://www.longfocus.com/firefox/updatenotifier/
+*/
+
+/*** Options ***/
+
+#un-options-header {
+	margin: 8px 5px 5px 5px;
+	border: 2px solid;
+	-moz-border-top-colors: ThreeDShadow ThreeDDarkShadow;
+	-moz-border-right-colors: ThreeDHighlight ThreeDDarkShadow;
+	-moz-border-bottom-colors: ThreeDHighlight ThreeDDarkShadow;
+	-moz-border-left-colors: ThreeDShadow ThreeDDarkShadow;
+	padding: 5px 8px;
+	background-color: Highlight;
+	color: HighlightText;
+}
+
+#un-options-header .dialogheader-title {
+	margin: 0px !important;
+	font-size: larger;
+	font-weight: bold;
+}
+
+#un-footer {
+	-moz-box-align: center;
+	margin: 0 8px 6px;
+}
+
+#un-options > tabbox {
+	margin: 6px;
+}
+
+#un-options-help-grid {
+	margin: 2px 0 0 6px;
+}
+
+#un-options-help-grid > rows > row {
+	-moz-box-align: center;
+	margin-bottom: 4px;
+}
+
+.un-indent {
+	margin-left: 10px;
+}
+
+.un-link {
+	color: #039;
+	cursor: pointer;
+}
+
+.un-link:hover {
+	text-decoration: underline;
+}
+
+/*** Bindings ***/
+
+toolbar #un-toolbarbutton {
+	-moz-binding: url(chrome://updatenotifier/content/overlay.xml#toolbarbutton);
+}
+
+#un-statusbar-panel {
+	-moz-binding: url(chrome://updatenotifier/content/overlay.xml#update-info);
+}
+
+/*** Customize window ***/
+
+#un-toolbarbutton {
+	list-style-image: url(chrome://updatenotifier/skin/un-icons.png);
+	-moz-image-region: rect(0px 32px 14px 0px); /* Blue and Green icon */
+}
+
+/*** Overlay Tooltip ***/
+
+#un-toolbar-tooltip {
+	padding: 2px;
+}
+
+#un-toolbar-tooltip-updates > separator {
+	margin: 0 4px 2px;
+}
+
+#un-toolbar-tooltip-updates > grid {
+	margin: 0 0 0 8px;
+}
+
+#un-toolbar-tooltip-updates > grid > rows > row {
+	-moz-box-align: center;
+	margin: 1px 0;
+}
+
+#un-toolbar-tooltip-updates > grid > rows > row > label {
+	margin-left: 4px;
+	margin-right: 0;
+}
+
+#un-toolbar-tooltip-updates > grid > rows > row > .bold {
+	font-weight: bold;
+}
+
+/*** Overlay ***/
+
+toolbar #un-toolbarbutton {
+	margin: 0;
+	padding: 0;
+}
+
+toolbar #un-toolbarbutton {
+	padding: 0 2px;
+}
+
+toolbar #un-toolbarbutton > dropmarker {
+	margin: 0 2px;
+}
+
+#un-statusbar-panel {
+	-moz-box-align: center;
+	padding: 0 3px;
+}
+
+#un-toolbarbutton[icon="busy"],
+#un-statusbar-panel[icon="busy"] > image {
+	opacity: 0.5;
+}
+
+/*** Icons ***/
+
+.un-icons {
+	list-style-image: url(chrome://updatenotifier/skin/un-icons.png);
+}
+
+.un-icons[icon="none"] {
+	-moz-image-region: rect(0px 64px 14px 48px); /* Grey icon */
+}
+
+.un-icons[icon="extension"] {
+	-moz-image-region: rect(0px 16px 14px 0px); /* Blue icon */
+}
+
+.un-icons[icon="theme"] {
+	-moz-image-region: rect(0px 32px 14px 16px); /* Green icon */
+}
+
+.un-icons[icon="both"] {
+	-moz-image-region: rect(0px 32px 14px 0px); /* Blue and Green icon */
+}
+
+.un-icons[icon="restart"] {
+	-moz-image-region: rect(0px 48px 14px 32px); /* Red icon */
+}
+
+.un-icons[icon="busy"] {
+	list-style-image: url(chrome://updatenotifier/skin/throbber.gif);
+	-moz-image-region: rect(0px 16px 16px 0px); /* Throbber */
+}

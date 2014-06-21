@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://updatenotifier/skin/overlay.css" type="text/css"?>
+
+<!-- 
+  Update Notifier
+  By Todd Long <longfocus@gmail.com>
+  http://www.longfocus.com/firefox/updatenotifier/
+ -->
+
+<!DOCTYPE window SYSTEM "chrome://updatenotifier/locale/updatenotifier.dtd">
+
+<window xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+		id="un-options"
+		title="&opts-title;"
+		persist="screenX, screenY"
+		oncommand="UN_gOptions.onAction(event);"
+		onload="UN_gOptions.load();">
+		
+	<script type="application/x-javascript" src="chrome://updatenotifier/content/options.js"/>
+	<script type="application/x-javascript" src="chrome://updatenotifier/content/utils.js"/>
+	
+	<keyset>
+		<key keycode="VK_ESCAPE" oncommand="window.close();"/>
+		<key keycode="VK_RETURN" oncommand="UN_gOptions.buttonOK();"/>
+	</keyset>
+	
+	<hbox id="un-options-header">	
+		<label class="dialogheader-title"
+			value="&ext-name;"
+			flex="1"/>
+			
+		<label id="un-options-header-description"/>
+	</hbox>
+	
+	<tabbox orient="vertical" flex="1">
+		<tabs>
+			<tab label="&opts-general;"/>
+			<tab label="&opts-toolbar;"/>
+			<tab label="&opts-notifications;"/>
+			<tab label="&opts-help;"/>
+		</tabs>
+		
+		<tabpanels>
+			<tabpanel orient="vertical">
+				<groupbox>
+					<caption label="&opts-general-startup.caption;"
+							collapsed="true"/>
+							
+					<checkbox id="un-options-general-startup-check"/>
+					
+					<checkbox id="un-options-general-restart-prompt"/>
+					
+					<hbox class="un-indent"
+						align="center"
+						collapsed="true">
+						
+						<label value="Delay checking for updates by:"/>
+						
+						<menulist flex="1"
+								sizetopopup="none">
+								
+							<menupopup>
+								<menuitem label="5 seconds"/>
+								<menuitem label="15 seconds"/>
+								<menuitem label="30 seconds"/>
+								<menuitem label="45 seconds"/>
+							</menupopup>
+						</menulist>
+					</hbox>
+				</groupbox>
+				
+				<groupbox>
+					<caption label="&opts-general-install.caption;"/>
+					
+					<checkbox id="un-options-general-auto-install"
+							label="&opts-general-install.checkbox;"/>
+							
+					<checkbox id="un-options-general-auto-restart"/>
+				</groupbox>
+			</tabpanel>
+			
+			<tabpanel orient="vertical">
+				<groupbox>
+					<caption label="&opts-toolbar-display.caption;"/>
+					
+					<checkbox id="un-options-toolbar-icon-display"
+							label="&opts-toolbar-display.checkbox;"/>
+				</groupbox>
+				
+				<groupbox>
+					<caption label="&opts-toolbar-statusbar.caption;"/>
+					
+					<checkbox id="un-options-toolbar-statusbar"
+							label="&opts-toolbar-statusbar-display;"/>
+							
+					<radiogroup id="un-options-toolbar-statusbar-radiogroup"
+								class="un-indent">
+								
+				        <radio id="un-options-toolbar-statusbar-always-last-radio"
+				        	label="&opts-toolbar-statusbar-last;"
+				        	selected="true"/>
+				        	
+						<hbox align="center">
+							<radio id="un-options-toolbar-statusbar-position-radio"
+								label="&opts-toolbar-statusbar-position;"/>
+								
+							<textbox id="un-options-toolbar-statusbar-position-textbox"
+									width="35px"
+									maxlength="2"
+									error="false"/>
+									
+							<label id="un-options-toolbar-statusbar-position-range"
+								hidden="true"
+								style="color:darkred;"/>
+						</hbox>
+					</radiogroup>
+				</groupbox>
+			</tabpanel>
+			
+			<tabpanel orient="vertical">
+				<groupbox>
+					<caption label="&opts-notifications-interval.caption;"/>
+					
+					<checkbox id="un-options-notifications-set-interval"/>
+					
+					<hbox class="un-indent"
+						align="center">
+						
+						<label id="un-options-notifications-interval-label"
+							value="&opts-notifications-interval-every;"/>
+							
+						<menulist id="un-options-notifications-interval-menulist"
+								flex="1"
+								sizetopopup="none">
+								
+							<menupopup id="un-options-notifications-interval-hours"/>
+						</menulist>
+					</hbox>
+				</groupbox>
+				
+				<groupbox id="un-options-notifications-alerts">
+					<caption label="&opts-notifications-alerts;"/>
+					
+					<checkbox id="un-options-notifications-alerts-display"
+						label="&opts-notifications-alerts-display;"/>
+				</groupbox>
+			</tabpanel>
+			
+			<tabpanel orient="vertical">
+				<groupbox>
+					<caption label="&opts-help-quick;"/>
+					
+					<grid id="un-options-help-grid" flex="1">
+						<columns>
+							<column />
+							<column flex="1"/>
+						</columns>
+						
+						<rows>
+							<row>
+								<image class="un-icons"
+									icon="extension"/>
+									
+								<label value="&opts-help-extension;"/>
+							</row>
+							<row>
+								<image class="un-icons"
+									icon="theme"/>
+									
+								<label value="&opts-help-theme;"/>
+							</row>
+							<row>
+								<image class="un-icons"
+									icon="restart"/>
+									
+								<label value="&opts-help-restart;"/>
+							</row>
+							<row>
+								<image class="un-icons"
+									icon="none"/>
+									
+								<label value="&opts-help-none;"/>
+							</row>
+						</rows>
+					</grid>
+				</groupbox>
+				
+				<groupbox>
+					<caption label="&opts-help-about;"/>
+					
+					<label class="un-link"
+						value="&opts-help-homepage;"
+						onclick="UN_visitSite(UN_WEBSITE);"/>
+				</groupbox>
+			</tabpanel>
+		</tabpanels>
+	</tabbox>
+	
+	<hbox id="un-footer">
+		<button label="&btn-defaults;"
+				oncommand="UN_gOptions.loadDefaults();"/>
+				
+		<hbox align="right" flex="1">
+			<button label="&btn-ok;"
+					default="true"
+					oncommand="UN_gOptions.buttonOK();"/>
+					
+			<button label="&btn-cancel;"
+					oncommand="window.close();"/>
+		</hbox>
+	</hbox>
+</window>

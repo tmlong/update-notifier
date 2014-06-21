@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://updatenotifier/skin/overlay.css" type="text/css"?>
+
+<!-- 
+  Update Notifier
+  By Todd Long <longfocus@gmail.com>
+  http://www.longfocus.com/firefox/updatenotifier/
+ -->
+
+<!DOCTYPE overlay SYSTEM "chrome://updatenotifier/locale/updatenotifier.dtd">
+
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" 
+		id="un-overlay">
+		
+	<script type="application/x-javascript" src="chrome://updatenotifier/content/overlay.js"/>
+	<script type="application/x-javascript" src="chrome://updatenotifier/content/utils.js"/>
+	<script type="application/x-javascript">
+	  <![CDATA[
+	    window.addEventListener("load", UN_onOverlayLoad, false);
+		window.addEventListener("unload", UN_onOverlayUnload, false);
+	  ]]>
+	</script>
+	
+	<!-- Firefox|Flock|SeaMonkey|Songbird Customize Toolbar -->
+	<toolbarpalette id="BrowserToolbarPalette">
+		<toolbarbutton id="un-toolbarbutton"/>
+	</toolbarpalette>
+	
+	<!-- Sunbird Customize Toolbar -->
+	<toolbarpalette id="calendarToolbarPalette">
+		<toolbarbutton id="un-toolbarbutton"/>
+	</toolbarpalette>
+	
+	<!-- Thunderbird Customize Toolbar -->
+	<toolbarpalette id="MailToolbarPalette">
+		<toolbarbutton id="un-toolbarbutton"/>
+	</toolbarpalette>
+	
+	<!-- Toolbarbutton -->
+	<toolbarbutton id="un-toolbarbutton"
+				type="menu"
+				icon="none"
+				title="Update Notifier"
+				tooltip="un-toolbar-tooltip"
+				onmouseover="UN_gOverlay.populateTooltip();"
+				onclick="UN_gOverlay.toolbarClick(event);">
+				
+		<menupopup id="un-toolbar-popup"
+				position="after_start"
+				onpopupshowing="UN_gOverlay.populatePopup(this.id);"/>
+	</toolbarbutton>
+	
+	<!-- Firefox|Flock|SeaMonkey|Songbird|Sunbird|Thunderbird Statusbar -->
+	<statusbar id="status-bar">
+		<statusbarpanel id="un-statusbar-panel"
+						icon="none"
+						context="un-statusbar-popup"
+						tooltip="un-toolbar-tooltip"
+						onmouseover="UN_gOverlay.populateTooltip();"/>
+	</statusbar>
+	
+	<!-- Firefox|Flock|SeaMonkey window -->
+	<window id="main-window">
+		<menupopup id="un-statusbar-popup"/>
+		<tooltip id="un-toolbar-tooltip"/>
+	</window>
+	
+	<!-- Songbird window -->
+	<window id="mainplayer">
+		<menupopup id="un-statusbar-popup"/>
+		<tooltip id="un-toolbar-tooltip"/>
+	</window>
+	
+	<!-- Sunbird window -->
+	<window id="calendar-window">
+		<menupopup id="un-statusbar-popup"/>
+		<tooltip id="un-toolbar-tooltip"/>
+	</window>
+	
+	<!-- Tunderbird window -->
+	<window id="messengerWindow">
+		<menupopup id="un-statusbar-popup"/>
+		<tooltip id="un-toolbar-tooltip"/>
+	</window>
+	
+	<menupopup id="un-statusbar-popup"
+			position="after_start"
+			onpopupshowing="UN_gOverlay.populatePopup(this.id);"/>
+			
+	<tooltip id="un-toolbar-tooltip"
+			noautohide="true"
+			orient="vertical"
+			position="before_start">
+			
+		<label id="un-toolbar-tooltip-header-label"/>
+		
+		<vbox id="un-toolbar-tooltip-updates">
+			<separator class="groove"/>
+			
+			<grid flex="1">
+				<rows id="un-toolbar-tooltip-updates-extensions"/>
+			</grid>
+			
+			<grid flex="1">
+				<rows id="un-toolbar-tooltip-updates-themes"/>
+			</grid>
+		</vbox>
+	</tooltip>
+</overlay>

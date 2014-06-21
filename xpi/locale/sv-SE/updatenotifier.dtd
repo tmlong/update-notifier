@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Meddelar när tilläggs- eller temauppdateringar finns att hämta.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Avbryt">
+<!ENTITY btn-defaults "Standardinst.">
+<!ENTITY opts-title "Update Notifier Inställningar">
+<!ENTITY opts-updates "Uppdateringar">
+<!ENTITY opts-general "Allmänt">
+<!ENTITY opts-general-startup.caption "Programstart">
+<!ENTITY opts-general-install.caption "Installera">
+<!ENTITY opts-general-install.checkbox "Installera automatiskt när uppdateringar blir tillgängliga.">
+<!ENTITY opts-toolbar "Verktygsfält">
+<!ENTITY opts-toolbar-display.caption "Visning">
+<!ENTITY opts-toolbar-display.checkbox "Visa ikon även när det inte finns några uppdateringar.">
+<!ENTITY opts-toolbar-statusbar.caption "Statusfält">
+<!ENTITY opts-toolbar-statusbar-display "Visa ikon i statusfältet.">
+<!ENTITY opts-toolbar-statusbar-last "Alltid sist">
+<!ENTITY opts-toolbar-statusbar-position "Exakt plats">
+<!ENTITY opts-notifications "Meddelanden">
+<!ENTITY opts-notifications-interval.caption "Automatiska uppdateringar">
+<!ENTITY opts-notifications-interval-every "Frekvens:">
+<!ENTITY opts-notifications-alerts "Varningar">
+<!ENTITY opts-notifications-alerts-display "Visa meddelande om nya uppdateringar.">
+<!ENTITY opts-help "Hjälp">
+<!ENTITY opts-help-quick "snabbhjälp">
+<!ENTITY opts-help-extension "Tilläggsuppdateringar finns.">
+<!ENTITY opts-help-theme "Temauppdateringar finns.">
+<!ENTITY opts-help-none "Det finns inga uppdateringar.">
+<!ENTITY opts-help-restart "Omstart krävs för installation.">
+<!ENTITY opts-help-about "Mera info">
+<!ENTITY opts-help-homepage "Webbplats...">

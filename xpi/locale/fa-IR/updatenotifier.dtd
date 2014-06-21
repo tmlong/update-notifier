@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "این برنامه هنگامی که آپدیتی برای قالب ها یا اکستنشن ها شما موجود باشد شما را مطلع می کند">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Cancel">
+<!ENTITY btn-defaults "تنظیمات پیشفرض">
+<!ENTITY opts-title "Update Notifier تنظیمات">
+<!ENTITY opts-updates "آپدیت ها">
+<!ENTITY opts-general "عمومی">
+<!ENTITY opts-general-startup.caption "شروع">
+<!ENTITY opts-general-install.caption "نصب">
+<!ENTITY opts-general-install.checkbox "نصب تمام آپدیت ها هنگامی که در دسترس بودند">
+<!ENTITY opts-toolbar "نوار ابزار">
+<!ENTITY opts-toolbar-display.caption "نمایش">
+<!ENTITY opts-toolbar-display.checkbox "نمایش آیکون هنگامی که آپدیتی وجود ندارد">
+<!ENTITY opts-toolbar-statusbar.caption "نوار وضعیت">
+<!ENTITY opts-toolbar-statusbar-display "نمایش آیکون آپدیت ها در نوار وضعیت">
+<!ENTITY opts-toolbar-statusbar-last "در آخر">
+<!ENTITY opts-toolbar-statusbar-position "مکان مشخص">
+<!ENTITY opts-notifications "جستجوی زمانی">
+<!ENTITY opts-notifications-interval.caption "فواصل زمانی جستجو">
+<!ENTITY opts-notifications-interval-every "جستجو برای آپدیت ها هر">
+<!ENTITY opts-notifications-alerts "هشدارها">
+<!ENTITY opts-notifications-alerts-display ".نمایش هشداردهنده ها هنگامی که آپدیتی موجود است">
+<!ENTITY opts-help "راهنما">
+<!ENTITY opts-help-quick "راهنمای سریع">
+<!ENTITY opts-help-extension ".آپدیتی برای اکستنشن ها موجود است">
+<!ENTITY opts-help-theme ".آپدیتی برای قالب ها موجود است">
+<!ENTITY opts-help-none ".آپدیتی موجود نیست">
+<!ENTITY opts-help-restart ".برای نصب آپدیت ها فایرفاکس باید دوباره راه اندازی شود">
+<!ENTITY opts-help-about "اطلاعات بیشتر">
+<!ENTITY opts-help-homepage "...سایت برنامه">

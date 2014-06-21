@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "เตือนคุณเมื่อมาการอัปเดตของตัวเสริมและธีม">
+<!ENTITY btn-ok "ตกลง">
+<!ENTITY btn-cancel "ยกเลิก">
+<!ENTITY btn-defaults "ค่าดั้งเดิม">
+<!ENTITY opts-title "ตัวเลือก Update Notifier">
+<!ENTITY opts-updates "การอัปเดต">
+<!ENTITY opts-general "ทั่วไป">
+<!ENTITY opts-general-startup.caption "เริ่มการทำงาน">
+<!ENTITY opts-general-install.caption "ติดตั้ง">
+<!ENTITY opts-general-install.checkbox "ติดตั้งตัวอัปเดตเมื่อมีให้ติดตั้ง">
+<!ENTITY opts-toolbar "แถบเครื่องมือ">
+<!ENTITY opts-toolbar-display.caption "การแสดงผล">
+<!ENTITY opts-toolbar-display.checkbox "แสดงผลสัญรูปเมื่อไม่มีการอัปเดต">
+<!ENTITY opts-toolbar-statusbar.caption "แถบสถานะ">
+<!ENTITY opts-toolbar-statusbar-display "แสดงผลสัญรูปการอัปเดตที่แถบสถานะ">
+<!ENTITY opts-toolbar-statusbar-last "อยู่ท้ายสุดเสมอ">
+<!ENTITY opts-toolbar-statusbar-position "ตำแหน่งที่ปรากฏ:">
+<!ENTITY opts-notifications "ประกาศ">
+<!ENTITY opts-notifications-interval.caption "ตรวจสอบช่วงเวลา">
+<!ENTITY opts-notifications-interval-every "ตรวจสอบการอัปเดตทุกๆ:">
+<!ENTITY opts-notifications-alerts "เตือน">
+<!ENTITY opts-notifications-alerts-display "แสดงผลประกาศเตือนการอัปเดตใหม่">
+<!ENTITY opts-help "คำอธิบาย">
+<!ENTITY opts-help-quick "คำอธิบายด่วน">
+<!ENTITY opts-help-extension "มีการอัปเดตตัวเสริม">
+<!ENTITY opts-help-theme "มีการอัปเดตธีม">
+<!ENTITY opts-help-none "ไม่มีการอัปเดต">
+<!ENTITY opts-help-restart "ต้องเริ่มโปรแกรมใหม่สำหรับการติดตั้ง">
+<!ENTITY opts-help-about "ข้อมูลเพิ่มเติม">
+<!ENTITY opts-help-homepage "โฮมเพจตัวเสริม...">

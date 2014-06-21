@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Upozorní, když jsou k dispozici aktualizace pro nainstalované rozšíření a motivy vzhledu.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Zrušit">
+<!ENTITY btn-defaults "Výchozí">
+<!ENTITY opts-title "Nastavení Update Notifier">
+<!ENTITY opts-updates "Aktualizace">
+<!ENTITY opts-general "Obecné">
+<!ENTITY opts-general-startup.caption "Při spuštění">
+<!ENTITY opts-general-install.caption "Instalovat">
+<!ENTITY opts-general-install.checkbox "Instalovat aktualizace automaticky vždy, když jsou k dispozici.">
+<!ENTITY opts-toolbar "Nástrojová lišta">
+<!ENTITY opts-toolbar-display.caption "Zobrazení">
+<!ENTITY opts-toolbar-display.checkbox "Zobrazit ikonu i v případě, že nejsou k dispozici žádné aktualizace.">
+<!ENTITY opts-toolbar-statusbar.caption "Stavový řádek">
+<!ENTITY opts-toolbar-statusbar-display "Zobrazit ikony aktualizací ve stavovém řádku.">
+<!ENTITY opts-toolbar-statusbar-last "Vždy poslední">
+<!ENTITY opts-toolbar-statusbar-position "Vlastní pozice:">
+<!ENTITY opts-notifications "Upozornění">
+<!ENTITY opts-notifications-interval.caption "Interval kontroly aktualizací">
+<!ENTITY opts-notifications-interval-every "Kontrolovat aktualizace po:">
+<!ENTITY opts-notifications-alerts "Upozornění">
+<!ENTITY opts-notifications-alerts-display "Zobrazit výstražné upozornění na nové aktualizace.">
+<!ENTITY opts-help "Nápověda">
+<!ENTITY opts-help-quick "Rychlá nápověda">
+<!ENTITY opts-help-extension "Aktualizace rozšíření jsou k dispozici.">
+<!ENTITY opts-help-theme "Aktualizace motivů vzhledu jsou k dispozici.">
+<!ENTITY opts-help-none "Žádné nové aktualizace.">
+<!ENTITY opts-help-restart "Je vyžadováno restartování aplikace.">
+<!ENTITY opts-help-about "Více informací">
+<!ENTITY opts-help-homepage "Domovská stránka rozšíření...">

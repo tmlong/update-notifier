@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "מודיע כאשר זמינים עידכונים לערכות נושא והרחבות.">
+<!ENTITY btn-ok "אשר">
+<!ENTITY btn-cancel "בטל">
+<!ENTITY btn-defaults "ברירת מחדל">
+<!ENTITY opts-title "אפשרויות Update Notifier">
+<!ENTITY opts-updates "עידכונים">
+<!ENTITY opts-general "כללי">
+<!ENTITY opts-general-startup.caption "אתחול">
+<!ENTITY opts-general-install.caption "התקנה">
+<!ENTITY opts-general-install.checkbox "התקן עידכונים כאשר הם זמינים.">
+<!ENTITY opts-toolbar "סרגל כלים">
+<!ENTITY opts-toolbar-display.caption "תצוגה">
+<!ENTITY opts-toolbar-display.checkbox "הצג אייקון כאשר עידכונים לא זמינים.">
+<!ENTITY opts-toolbar-statusbar.caption "שורת מצב">
+<!ENTITY opts-toolbar-statusbar-display "הצג אייקוני עידכון בשורת המצב.">
+<!ENTITY opts-toolbar-statusbar-last "תמיד אחרון">
+<!ENTITY opts-toolbar-statusbar-position "מיקום מסויים:">
+<!ENTITY opts-notifications "הודעה">
+<!ENTITY opts-notifications-interval.caption "בדוק מרווח">
+<!ENTITY opts-notifications-interval-every "בדוק לעידכונים כל:">
+<!ENTITY opts-notifications-alerts "התרעות">
+<!ENTITY opts-notifications-alerts-display "הצג התרעת הודעה לעידכונים חדשים.">
+<!ENTITY opts-help "עזרה">
+<!ENTITY opts-help-quick "עזרה מהירה">
+<!ENTITY opts-help-extension "עידכוני הרחבות זמינים.">
+<!ENTITY opts-help-theme "עידכוני ערכות נושא זמינים.">
+<!ENTITY opts-help-none "אין עידכונים זמינים.">
+<!ENTITY opts-help-restart "אתחול דרוש להתקנה">
+<!ENTITY opts-help-about "עוד מידע">
+<!ENTITY opts-help-homepage "דף הבית של ההרחבה...">

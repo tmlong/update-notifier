@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Notificador d&apos;Actualitzacions">
+<!ENTITY ext-description "T&apos;avisa quan hi ha actualitzacions per les teves extensions i temes">
+<!ENTITY btn-ok "D&apos;acord">
+<!ENTITY btn-cancel "Cancel.la">
+<!ENTITY btn-defaults "Opcions per defecte">
+<!ENTITY opts-title "Opcions del Notificador d&apos;Actualitzacions">
+<!ENTITY opts-updates "Actualitzacions">
+<!ENTITY opts-general "General">
+<!ENTITY opts-general-startup.caption "Inici">
+<!ENTITY opts-general-install.caption "Instal.lar">
+<!ENTITY opts-general-install.checkbox "Instal.lar">
+<!ENTITY opts-toolbar "Barres d&apos;eines">
+<!ENTITY opts-toolbar-display.caption "Mostra">
+<!ENTITY opts-toolbar-display.checkbox "Mostra la icona quan no hi ha actualitzacions disponibles.">
+<!ENTITY opts-toolbar-statusbar.caption "Barra d&apos;estat">
+<!ENTITY opts-toolbar-statusbar-display "Mostra les icones a la barra d&apos;estat">
+<!ENTITY opts-toolbar-statusbar-last "Sempre l&apos;últim">
+<!ENTITY opts-toolbar-statusbar-position "Posició específica">
+<!ENTITY opts-notifications "Notificacions">
+<!ENTITY opts-notifications-interval.caption "Interval de comprovació">
+<!ENTITY opts-notifications-interval-every "Comprova les actualitzacions cada:">
+<!ENTITY opts-notifications-alerts "Alertes">
+<!ENTITY opts-notifications-alerts-display "Mostra una alerta si hi ha noves actualitzacions">
+<!ENTITY opts-help "Ajuda">
+<!ENTITY opts-help-quick "Ajuda ràpida">
+<!ENTITY opts-help-extension "Actualitzacions d&apos;extensions disponibles">
+<!ENTITY opts-help-theme "Actualitzacions de temes disponibles">
+<!ENTITY opts-help-none "No hi ha actualitzacions disponibles">
+<!ENTITY opts-help-restart "Reiniciar necessari per la instal.lació">
+<!ENTITY opts-help-about "Més informació">
+<!ENTITY opts-help-homepage "Pagina d&apos;inici de la extensió...">

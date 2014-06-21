@@ -1,0 +1,45 @@
+<!-- 
+  Update Notifier
+  By Todd Long <longfocus@gmail.com>
+  http://www.longfocus.com/firefox/updatenotifier/
+ -->
+
+<!-- Extension details -->
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Notifies you when updates are available for your extensions and themes.">
+
+<!-- Buttons -->
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Cancel">
+<!ENTITY btn-defaults "Defaults">
+
+<!-- Options -->
+<!ENTITY opts-title "Update Notifier Options">
+<!ENTITY opts-updates "Updates">
+<!ENTITY opts-general "General">
+<!ENTITY opts-general-startup.caption "Startup">
+<!ENTITY opts-general-install.caption "Install">
+<!ENTITY opts-general-install.checkbox "Install updates when they become available.">
+
+<!ENTITY opts-toolbar "Toolbar">
+<!ENTITY opts-toolbar-display.caption "Display">
+<!ENTITY opts-toolbar-display.checkbox "Display icon when no updates are available.">
+<!ENTITY opts-toolbar-statusbar.caption "Statusbar">
+<!ENTITY opts-toolbar-statusbar-display "Display update icons in the statusbar.">
+<!ENTITY opts-toolbar-statusbar-last "Always last">
+<!ENTITY opts-toolbar-statusbar-position "Specific position:">
+
+<!ENTITY opts-notifications "Notifications">
+<!ENTITY opts-notifications-interval.caption "Check interval">
+<!ENTITY opts-notifications-interval-every "Check for updates every:">
+<!ENTITY opts-notifications-alerts "Alerts">
+<!ENTITY opts-notifications-alerts-display "Display alert notification for new updates.">
+
+<!ENTITY opts-help "Help">
+<!ENTITY opts-help-quick "Quick help">
+<!ENTITY opts-help-extension "Extension updates are available.">
+<!ENTITY opts-help-theme "Theme updates are available.">
+<!ENTITY opts-help-none "There are no updates available.">
+<!ENTITY opts-help-restart "Restart required for installation.">
+<!ENTITY opts-help-about "More info">
+<!ENTITY opts-help-homepage "Extension Homepage...">

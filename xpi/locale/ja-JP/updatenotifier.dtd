@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "拡張機能とテーマのアップデートを通知します">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "キャンセル">
+<!ENTITY btn-defaults "デフォルト">
+<!ENTITY opts-title "Update Notifier 設定">
+<!ENTITY opts-updates "アップデート">
+<!ENTITY opts-general "一般">
+<!ENTITY opts-general-startup.caption "起動">
+<!ENTITY opts-general-install.caption "インストール">
+<!ENTITY opts-general-install.checkbox "アップデート可能になったらインストールする">
+<!ENTITY opts-toolbar "ツールバー">
+<!ENTITY opts-toolbar-display.caption "表示">
+<!ENTITY opts-toolbar-display.checkbox "アップデートがないときもアイコンを表示する">
+<!ENTITY opts-toolbar-statusbar.caption "ステータスバー">
+<!ENTITY opts-toolbar-statusbar-display "ステータスバーにアップデートアイコンを表示する">
+<!ENTITY opts-toolbar-statusbar-last "常時最後部">
+<!ENTITY opts-toolbar-statusbar-position "表示位置指定（数字）：">
+<!ENTITY opts-notifications "通知">
+<!ENTITY opts-notifications-interval.caption "チェック間隔">
+<!ENTITY opts-notifications-interval-every "常時アップデートを確認する時間は：">
+<!ENTITY opts-notifications-alerts "警告">
+<!ENTITY opts-notifications-alerts-display "新規アップデートの警告通知を表示する">
+<!ENTITY opts-help "ヘルプ">
+<!ENTITY opts-help-quick "クイックヘルプ">
+<!ENTITY opts-help-extension "アップデート可能な拡張機能があります">
+<!ENTITY opts-help-theme "アップデート可能なテーマがあります">
+<!ENTITY opts-help-none "アップデートはありません">
+<!ENTITY opts-help-restart "インストールを完了させるには再起動が必要です">
+<!ENTITY opts-help-about "詳細情報">
+<!ENTITY opts-help-homepage "ホームページ">

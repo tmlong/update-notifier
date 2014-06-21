@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Notificerer dig om hvorvidt der er opdateringer af dine udvidelser og temaer til rådighed.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Annuller">
+<!ENTITY btn-defaults "Standarder">
+<!ENTITY opts-title "Opdateringsnotifikator indstillinger">
+<!ENTITY opts-updates "Opdateringer">
+<!ENTITY opts-general "Generelt">
+<!ENTITY opts-general-startup.caption "Opstart">
+<!ENTITY opts-general-install.caption "Installer">
+<!ENTITY opts-general-install.checkbox "Installer opdateringer når de er til rådighed.">
+<!ENTITY opts-toolbar "Værktøjslinje">
+<!ENTITY opts-toolbar-display.caption "Vis">
+<!ENTITY opts-toolbar-display.checkbox "Vis ikon når der ikke er opdateringer til rådighed.">
+<!ENTITY opts-toolbar-statusbar.caption "Statuslinje">
+<!ENTITY opts-toolbar-statusbar-display "Vis opdateringsikoner i statuslinjen.">
+<!ENTITY opts-toolbar-statusbar-last "Altid sidste">
+<!ENTITY opts-toolbar-statusbar-position "Bestemt position:">
+<!ENTITY opts-notifications "Notifikationer">
+<!ENTITY opts-notifications-interval.caption "Check-interval">
+<!ENTITY opts-notifications-interval-every "Check for opdateringer hver:">
+<!ENTITY opts-notifications-alerts "Alarmer">
+<!ENTITY opts-notifications-alerts-display "Vis alarmnotifikationer for nye opdateringer.">
+<!ENTITY opts-help "Hjælp">
+<!ENTITY opts-help-quick "Hurtig hjælp">
+<!ENTITY opts-help-extension "Opdateringer til udvidelse er til rådighed.">
+<!ENTITY opts-help-theme "Opdateringer til tema er til rådighed.">
+<!ENTITY opts-help-none "Der er ingen opdateringer til rådighed.">
+<!ENTITY opts-help-restart "Genstart påkrævet for at fuldføre installation.">
+<!ENTITY opts-help-about "Mere info">
+<!ENTITY opts-help-homepage "Hjemmeside for udvidelse...">

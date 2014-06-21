@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Vous avertit quand des mises à jour pour vos thèmes et extensions sont disponibles.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Annuler">
+<!ENTITY btn-defaults "Défaut">
+<!ENTITY opts-title "Options de Update Notifier">
+<!ENTITY opts-updates "Mises à jour">
+<!ENTITY opts-general "Général">
+<!ENTITY opts-general-startup.caption "Démarrage">
+<!ENTITY opts-general-install.caption "Installation">
+<!ENTITY opts-general-install.checkbox "Installer les mises à jour quand elles sont disponibles.">
+<!ENTITY opts-toolbar "Barre d&apos;outils">
+<!ENTITY opts-toolbar-display.caption "Afficher">
+<!ENTITY opts-toolbar-display.checkbox "Afficher l&apos;icône quand aucune mise à jour n&apos;est disponible.">
+<!ENTITY opts-toolbar-statusbar.caption "Barre d&apos;état">
+<!ENTITY opts-toolbar-statusbar-display "Afficher les icônes de mise à jour dans la barre d&apos;état.">
+<!ENTITY opts-toolbar-statusbar-last "Toujours en dernier">
+<!ENTITY opts-toolbar-statusbar-position "Position spécifique :">
+<!ENTITY opts-notifications "Notifications">
+<!ENTITY opts-notifications-interval.caption "Fréquence de la recherche">
+<!ENTITY opts-notifications-interval-every "Vérifier la présence de mise à jour toutes les :">
+<!ENTITY opts-notifications-alerts "Alertes">
+<!ENTITY opts-notifications-alerts-display "Afficher une notification pour les nouvelles mises à jour.">
+<!ENTITY opts-help "Aide">
+<!ENTITY opts-help-quick "Aide rapide">
+<!ENTITY opts-help-extension "Des mises à jour pour des extensions sont disponibles.">
+<!ENTITY opts-help-theme "Des mises à jour pour des thèmes sont disponibles.">
+<!ENTITY opts-help-none "Il n&apos;y a pas de mise à jour disponible.">
+<!ENTITY opts-help-restart "Un redémarrage est nécessaire pour finaliser l&apos;installation.">
+<!ENTITY opts-help-about "Plus d&apos;infos">
+<!ENTITY opts-help-homepage "Site Web de l&apos;extension...">

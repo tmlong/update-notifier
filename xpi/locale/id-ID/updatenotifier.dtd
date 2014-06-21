@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Memberitahukan Anda jika terdapat pembaruan yang tersedia untuk ekstension dan tema yang Anda miliki.">
+<!ENTITY btn-ok "Setuju">
+<!ENTITY btn-cancel "Batal">
+<!ENTITY btn-defaults "Keadaan Awal">
+<!ENTITY opts-title "Pilihan Update Notifier">
+<!ENTITY opts-updates "Pembaruan">
+<!ENTITY opts-general "Umum">
+<!ENTITY opts-general-startup.caption "Pemulaian">
+<!ENTITY opts-general-install.caption "Pemasangan">
+<!ENTITY opts-general-install.checkbox "Pasang pembaruan jika telah tersedia">
+<!ENTITY opts-toolbar "Daftar Fungsi">
+<!ENTITY opts-toolbar-display.caption "Tampilan">
+<!ENTITY opts-toolbar-display.checkbox "Tampilkan lambang jika tidak ada pembaruan yang tersedia">
+<!ENTITY opts-toolbar-statusbar.caption "Daftar Keadaan">
+<!ENTITY opts-toolbar-statusbar-display "Tampilkan lambang pembaruan dalam Daftar Keadaan">
+<!ENTITY opts-toolbar-statusbar-last "Selalu terakhir">
+<!ENTITY opts-toolbar-statusbar-position "Posisi tertentu:">
+<!ENTITY opts-notifications "Pemberitahuan">
+<!ENTITY opts-notifications-interval.caption "Periode pengecekan">
+<!ENTITY opts-notifications-interval-every "Cek pembaruan setiap:">
+<!ENTITY opts-notifications-alerts "Peringatan">
+<!ENTITY opts-notifications-alerts-display "Tampilan peringatan pemberitahuan tentang pembaruan yang terkini">
+<!ENTITY opts-help "Pertolongan">
+<!ENTITY opts-help-quick "Pertolongan cepat">
+<!ENTITY opts-help-extension "Pembaruan ekstension telah tersedia">
+<!ENTITY opts-help-theme "Pembaruan tema telah tersedia">
+<!ENTITY opts-help-none "Tidak ada pembaruan yang tersedia">
+<!ENTITY opts-help-restart "Pemulaian ulang dibutuhkan untuk pemasangan">
+<!ENTITY opts-help-about "Informasi tambahan">
+<!ENTITY opts-help-homepage "Situs ekstension...">

@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Waarschuwt als er updates beschikbaar zijn voor de geïnstalleerde extensies en thema&apos;s.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Annuleren">
+<!ENTITY btn-defaults "Standaardinstellingen">
+<!ENTITY opts-title "Update Notifier Opties">
+<!ENTITY opts-updates "Updates">
+<!ENTITY opts-general "Algemeen">
+<!ENTITY opts-general-startup.caption "Opstarten">
+<!ENTITY opts-general-install.caption "Installeren">
+<!ENTITY opts-general-install.checkbox "Updates installeren als ze beschikbaar zijn.">
+<!ENTITY opts-toolbar "Werkbalk">
+<!ENTITY opts-toolbar-display.caption "Weergeven">
+<!ENTITY opts-toolbar-display.checkbox "Pictogram ook weergeven als er geen updates beschikbaar zijn.">
+<!ENTITY opts-toolbar-statusbar.caption "Statusbalk">
+<!ENTITY opts-toolbar-statusbar-display "Update pictogrammen in de statusbalk weergeven.">
+<!ENTITY opts-toolbar-statusbar-last "Altijd als laatste">
+<!ENTITY opts-toolbar-statusbar-position "Specifieke positie:">
+<!ENTITY opts-notifications "Waarschuwingen">
+<!ENTITY opts-notifications-interval.caption "Controle interval">
+<!ENTITY opts-notifications-interval-every "Controleer op updates elke:">
+<!ENTITY opts-notifications-alerts "Waarschuwingen">
+<!ENTITY opts-notifications-alerts-display "Waarschuwingsbericht weergeven voor nieuwe updates.">
+<!ENTITY opts-help "Help">
+<!ENTITY opts-help-quick "Snelle hulp">
+<!ENTITY opts-help-extension "Er zijn updates voor extensies beschikbaar.">
+<!ENTITY opts-help-theme "Er zijn updates voor thema&apos;s beschikbaar.">
+<!ENTITY opts-help-none "Er zijn geen updates beschikbaar.">
+<!ENTITY opts-help-restart "Voor installatie is herstarten noodzakelijk.">
+<!ENTITY opts-help-about "Meer informatie...">
+<!ENTITY opts-help-homepage "Extensie startpagina...">

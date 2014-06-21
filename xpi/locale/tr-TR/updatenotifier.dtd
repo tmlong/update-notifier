@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Eklenti ve temalarınızı otomatik güncellemeye yarar.">
+<!ENTITY btn-ok "Tamam">
+<!ENTITY btn-cancel "Vazgeç">
+<!ENTITY btn-defaults "Varsayılan">
+<!ENTITY opts-title "Update Notifier Seçenekleri">
+<!ENTITY opts-updates "Güncelleştirmeler">
+<!ENTITY opts-general "Genel">
+<!ENTITY opts-general-startup.caption "Başlangıç">
+<!ENTITY opts-general-install.caption "Yükle">
+<!ENTITY opts-general-install.checkbox "Uygulanabilir güncelleştirmeleri otomatik yükle.">
+<!ENTITY opts-toolbar "Araçlar">
+<!ENTITY opts-toolbar-display.caption "Görünüm">
+<!ENTITY opts-toolbar-display.checkbox "Uygulanabilir bir güncelleme olmadığında ikonu göster.">
+<!ENTITY opts-toolbar-statusbar.caption "Durum Çubuğu">
+<!ENTITY opts-toolbar-statusbar-display "Güncelleme ikonunu durum çubuğunda göster.">
+<!ENTITY opts-toolbar-statusbar-last "Her zaman en sonda">
+<!ENTITY opts-toolbar-statusbar-position "Pozisyon seç:">
+<!ENTITY opts-notifications "Bildiri">
+<!ENTITY opts-notifications-interval.caption "Aralığı Kontrol Et">
+<!ENTITY opts-notifications-interval-every "Güncelle her:">
+<!ENTITY opts-notifications-alerts "Alarmlar">
+<!ENTITY opts-notifications-alerts-display "Güncellemeler için alarm bildirimi görünümü">
+<!ENTITY opts-help "Yardım">
+<!ENTITY opts-help-quick "Hızlı Yardım">
+<!ENTITY opts-help-extension "Kullanılabilinir eklenti güncellemeleri.">
+<!ENTITY opts-help-theme "Kullanılabilinir tema güncellemeleri.">
+<!ENTITY opts-help-none "Kullanılabilinir güncelleme yok.">
+<!ENTITY opts-help-restart "Kurulumu tamamlamak için tekrar başlatmanız gerekiyor.">
+<!ENTITY opts-help-about "Daha fazla bilgi">
+<!ENTITY opts-help-homepage "Eklenti anasayfası...">

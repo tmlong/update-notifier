@@ -1,0 +1,31 @@
+<!ENTITY ext-name "Update Notifier">
+<!ENTITY ext-description "Benachrichtigt Sie, wenn Updates für Ihre Erweiterungen und Themes verfügbar sind.">
+<!ENTITY btn-ok "OK">
+<!ENTITY btn-cancel "Schließen">
+<!ENTITY btn-defaults "Standard wiederherstellen">
+<!ENTITY opts-title "Update Notifier - Einstellungen">
+<!ENTITY opts-updates "Updates">
+<!ENTITY opts-general "Allgemein">
+<!ENTITY opts-general-startup.caption "Start">
+<!ENTITY opts-general-install.caption "Installieren">
+<!ENTITY opts-general-install.checkbox "Verfügbare Updates automatisch installieren">
+<!ENTITY opts-toolbar "Aussehen">
+<!ENTITY opts-toolbar-display.caption "Anzeige">
+<!ENTITY opts-toolbar-display.checkbox "Symbol auch anzeigen, wenn keine Updates verfügbar sind">
+<!ENTITY opts-toolbar-statusbar.caption "Statusleiste">
+<!ENTITY opts-toolbar-statusbar-display "Update-Symbole in der Statusleiste anzeigen">
+<!ENTITY opts-toolbar-statusbar-last "Stets rechtsbündig">
+<!ENTITY opts-toolbar-statusbar-position "Genaue Position:">
+<!ENTITY opts-notifications "Benachrichtigungen">
+<!ENTITY opts-notifications-interval.caption "Zeitabstand der Überprüfungen">
+<!ENTITY opts-notifications-interval-every "Auf Updates überprüfen alle">
+<!ENTITY opts-notifications-alerts "Meldungen">
+<!ENTITY opts-notifications-alerts-display "Meldung bei neuen Updates anzeigen">
+<!ENTITY opts-help "Hilfe">
+<!ENTITY opts-help-quick "Bedeutung der Symbole">
+<!ENTITY opts-help-extension "Für Erweiterungen sind Updates verfügbar">
+<!ENTITY opts-help-theme "Für Themes sind Updates verfügbar">
+<!ENTITY opts-help-none "Es sind keine Updates verfügbar">
+<!ENTITY opts-help-restart "Die Installation erfordert einen Neustart">
+<!ENTITY opts-help-about "Weitere Informationen">
+<!ENTITY opts-help-homepage "Homepage der Erweiterung...">
